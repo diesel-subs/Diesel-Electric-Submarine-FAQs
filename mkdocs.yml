@@ -1,0 +1,252 @@
+site_name: Diesel-Electric
+site_url: https://sitename.example
+theme:
+  name: material
+  font:
+    text: Merriweather Sans
+    code: Red Hat Mono
+  logo: assets/logo.png
+  favicon: assets/favicon/favicon.png
+  features:
+    - navigation.footer
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: green
+      accent: deep purple
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+
+nav:
+  - Home: index.md
+  - Categories:
+      - "Hull and Compartments":
+          - "categories/hull-and-compartments/index.md"
+          - "FAQs":
+              - "categories/hull-and-compartments/FAQs/is-the-uss-pampanito-ss-383-really-a-submarine.md"
+              - "categories/hull-and-compartments/FAQs/what-do-you-mean-when-you-say-this-is-what-we-called-a-submarine.md"
+              - "categories/hull-and-compartments/FAQs/how-different-are-modern-submarines.md"
+              - "categories/hull-and-compartments/FAQs/pampanito-is-much-bigger-than-i-expected-i-thought-submarines-were-crowded.md"
+              - "categories/hull-and-compartments/FAQs/is-a-submarine-a-boat-or-a-ship.md"
+              - "categories/hull-and-compartments/FAQs/is-the-submarine-a-battleship.md"
+              - "categories/hull-and-compartments/FAQs/where-is-the-pressure-hull-can-i-see-it-from-the-pier.md"
+              - "categories/hull-and-compartments/FAQs/where-do-the-torpedoes-come-out.md"
+              - "categories/hull-and-compartments/FAQs/what-should-we-know-before-discussing-what-is-in-the-boat.md"
+              - "categories/hull-and-compartments/FAQs/what-is-a-hatch.md"
+              - "categories/hull-and-compartments/FAQs/what-is-a-head.md"
+              - "categories/hull-and-compartments/FAQs/what-is-a-ladder.md"
+              - "categories/hull-and-compartments/FAQs/what-is-a-watertight-door.md"
+              - "categories/hull-and-compartments/FAQs/why-are-there-so-many-doorways-to-go-through.md"
+              - "categories/hull-and-compartments/FAQs/why-are-the-watertight-doors-so-heavy.md"
+              - "categories/hull-and-compartments/FAQs/what-are-the-compartments-on-these-submarines.md"
+              - "categories/hull-and-compartments/FAQs/the-control-room-has-a-lot-of-equipment-is-it-the-command-center.md"
+              - "categories/hull-and-compartments/FAQs/are-there-enough-heads-on-the-boat-we-only-see-two.md"
+              - "categories/hull-and-compartments/FAQs/why-are-the-chiefs-quarters-known-as-the-goat-locker.md"
+      - US WW2 Subs in General:
+        - categories/us-ww2-subs-in-general/index.md
+        - FAQs:
+          - "categories/us-ww2-subs-in-general/FAQs/how-many-submarines-did-we-have-in-ww2.md"
+          - "categories/us-ww2-subs-in-general/FAQs/what-was-built-after-the-r-and-s-class-boats.md"
+          - "categories/us-ww2-subs-in-general/FAQs/what-did-we-build-during-the-war.md"
+          - "categories/us-ww2-subs-in-general/FAQs/what-is-a-class-of-ships-or-submarines.md"
+          - "categories/us-ww2-subs-in-general/FAQs/how-do-these-classes-of-submarines-compare-to-each-other.md"
+          - "categories/us-ww2-subs-in-general/FAQs/how-many-of-each-did-we-have-during-the-war.md"
+          - "categories/us-ww2-subs-in-general/FAQs/what-did-we-do-with-our-submarines-at-the-end-of-the-war.md"
+          - "categories/us-ww2-subs-in-general/FAQs/what-was-the-reserve-fleet.md"
+          - "categories/us-ww2-subs-in-general/FAQs/did-we-use-any-of-the-reserve-fleet-submarines-after-ww2.md"
+          - "categories/us-ww2-subs-in-general/FAQs/how-many-submarines-were-built-in-each-shipyard.md"
+          - "categories/us-ww2-subs-in-general/FAQs/why-was-there-such-a-difference-in-the-numbers-of-boats-built-in-each-yard.md"
+          - "categories/us-ww2-subs-in-general/FAQs/what-is-different-about-a-naval-shipyard-like-the-ones-in-portsmouth-and-mare-island.md"
+          - "categories/us-ww2-subs-in-general/FAQs/how-much-did-these-submarines-cost.md"
+          - "categories/us-ww2-subs-in-general/FAQs/how-long-did-it-take-to-build-these-submarines.md"
+          - "categories/us-ww2-subs-in-general/FAQs/were-all-of-our-newest-ww2-submarines-identical.md"
+          - "categories/us-ww2-subs-in-general/FAQs/how-could-they-build-submarines-in-manitowoc-on-the-lake-michigan.md"
+          - "categories/us-ww2-subs-in-general/FAQs/how-did-manitowoc-get-the-boats-to-the-ocean.md"
+          - "categories/us-ww2-subs-in-general/FAQs/did-rosie-the-riveter-help-build-submarines.md"
+          - "categories/us-ww2-subs-in-general/FAQs/how-big-were-our-submarines-in-ww2.md"
+          - "categories/us-ww2-subs-in-general/FAQs/how-were-us-submarines-named-in-ww2.md"
+          - "categories/us-ww2-subs-in-general/FAQs/how-many-submarines-did-we-lose-in-ww2.md"
+          - "categories/us-ww2-subs-in-general/FAQs/how-were-they-lost.md"
+          - "categories/us-ww2-subs-in-general/FAQs/was-everyone-on-board-lost-when-a-submarine-sank.md"
+          - "categories/us-ww2-subs-in-general/FAQs/submarines-evolved-they-didnt-need-to-be-conjured-up-out-of-someones-imagination-as-fully-formed-ves.md"
+      - "Operating US Subs in WW2":
+          - "categories/operating-us-subs-in-ww2/index.md"
+          - "FAQs":
+              - "categories/operating-us-subs-in-ww2/FAQs/what-was-the-primary-mission-of-our-submarines-in-ww2.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/did-they-do-anything-other-than-attacking-enemy-ships.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/what-was-ultra.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/how-did-we-find-out-that-submarines-had-been-sunk.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/is-it-possible-to-escape-from-a-sunken-u-s-submarine.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/has-anyone-escaped-from-a-submarine-of-the-types-we-built-in-ww2-that-had-sunk.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/how-do-the-escape-trunks-work.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/how-fast-could-these-submarines-go-on-the-surface.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/how-fast-could-these-submarines-go-when-submerged.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/how-far-could-these-submarines-go.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/what-does-that-mean-how-far-could-they-operate-from-san-francisco.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/what-if-you-ran-out-of-fuel.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/how-long-were-war-patrols.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/how-long-can-these-submarines-stay-at-sea.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/did-american-submarines-resupply-at-sea.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/how-did-submarines-receive-messages-during-a-patrol.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/what-kinds-of-messages-would-submarines-send-during-a-patrol.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/did-they-spend-most-of-the-time-submerged.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/what-is-a-trim-dive.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/how-long-were-they-normally-submerged-in-the-patrol-area.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/why-was-it-important-to-be-on-the-surface-at-night.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/how-long-could-these-submarines-stay-submerged.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/how-do-you-know-that-oxygen-is-getting-low.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/are-there-any-windows-on-a-submarine.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/did-these-submarines-always-have-a-window-in-the-control-room-hatch.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/were-our-submarines-successful-during-the-war.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/what-were-the-navys-problems-at-the-beginning-of-the-war.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/why-did-submarines-limit-the-use-of-active-sonar-and-radar.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/does-that-mean-submarines-never-used-active-sonar-and-radar.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/did-loose-lips-really-sink-ships.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/how-is-the-trash-and-sewage-removed-from-the-boat.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/when-would-the-signal-tube-in-the-after-torpedo-room-be-used.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/was-there-a-specific-paint-color-for-submarines.md"
+              - "categories/operating-us-subs-in-ww2/FAQs/do-submarines-leak.md"
+      - "the Crews Aboard WW2 US Subs":
+          - "categories/the-crews-aboard-ww2-us-subs/index.md"
+          - "FAQs":
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/what-is-a-bubblehead.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/how-many-men-were-assigned-to-a-submarine-in-ww2.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/why-werent-the-gatobalaotench-boats-designed-for-the-number-of-men-assigned.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/why-did-the-number-increase-in-the-last-year.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/why-does-it-take-so-many-men-to-staff-the-submarine.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/since-submarines-had-limited-space-were-there-height-and-weight-limits.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/does-that-mean-you-wanted-all-smaller-sailors-on-a-submarine.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/with-all-the-negatives-why-would-anyone-want-to-be-on-a-submarine-in-ww2.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/what-was-the-best-part-of-being-on-a-boat.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/how-was-a-submarine-less-formal.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/what-was-the-worst-part-of-being-on-a-boat.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/how-long-were-you-assigned-to-a-submarine-in-ww2.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/how-often-did-sub-sailors-get-home-during-ww2.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/how-were-submarine-sailors-selected.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/was-everyone-a-volunteer.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/how-does-one-volunteer-for-submarines.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/what-kind-of-training-did-they-get-for-submarine-duty.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/did-anyone-stress-out-and-need-to-get-out-of-submarines.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/what-if-you-just-changed-your-mind-and-wanted-out-of-submarines.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/was-there-a-doctor-on-board-these-submarines.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/what-did-the-pharmacist-mates-treat.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/as-a-result-does-that-mean-there-were-no-surgeries-on-submarines-in-ww2.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/were-there-any-women-on-board-submarines-in-ww2.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/was-there-an-area-that-could-be-used-for-a-jail.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/who-were-the-officers.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/were-officers-all-the-same.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/was-there-a-difference-in-ww2.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/were-the-officers-on-submarines-specialists.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/what-roles-did-they-have.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/is-captain-a-rank-or-a-job.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/who-or-what-are-the-chief-petty-officers.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/who-is-the-chief-of-the-boat-also-known-as-the-cob.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/who-are-the-petty-officers-who-arent-chiefs.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/what-specialists-ratings-were-typically-assigned-to-submarines.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/did-they-have-special-designations-similar-to-the-officers.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/were-these-the-only-responsibilities.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/what-was-liberty.md"
+              - "categories/the-crews-aboard-ww2-us-subs/FAQs/what-was-leave.md"
+      - "Life Aboard WW2 US Subs":
+          - "categories/life-aboard-ww2-us-subs/index.md"
+          - "FAQs":
+              - "categories/life-aboard-ww2-us-subs/FAQs/what-did-a-typical-day-at-sea-consist-of.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/what-did-a-typical-day-in-port-consist-of.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/what-is-a-watch.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/how-does-dogging-the-watch-work.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/what-were-the-general-living-conditions-on-a-submarine-like-this.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/since-the-crew-size-grew-but-not-the-number-of-bunks-where-did-they-all-sleep.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/is-there-a-best-place-to-sleep.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/is-it-ever-truly-quiet-for-sleeping.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/what-kept-you-from-falling-out-of-your-bunk-in-heavy-seas.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/how-deep-do-you-have-to-go-to-get-below-the-effect-of-waves.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/what-was-the-largest-number-of-men-on-a-us-ww2-submarine.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/how-could-you-all-move-quickly-when-going-to-battle-stations.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/what-is-battle-stations.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/what-is-a-battle-station.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/who-was-responsible-for-damage-control.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/what-was-a-tracking-party.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/where-did-they-store-all-the-oxygen-for-so-many-people.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/how-do-you-get-fresh-air-into-the-boat-where-does-the-oxygen-come-from.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/were-these-submarines-hot-inside.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/werent-the-boats-crowded.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/there-are-showers-on-board-how-often-could-the-crew-take-showers.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/why-not-take-salt-water-showers.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/if-no-one-could-take-showers-didnt-the-submarine-smell-bad.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/how-could-the-sub-sailors-put-up-with-the-smell.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/how-much-food-could-these-boats-carry.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/what-kinds-of-food-would-it-be.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/where-would-it-be-stored-where-is-the-storage-space.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/what-was-the-food-like-on-a-submarine.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/was-the-food-really-better-than-the-rest-of-the-navy.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/how-could-everyone-fit-in-that-small-space.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/when-were-the-meals.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/is-that-an-ice-cream-machine-in-the-crews-berthing.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/how-much-personal-storage-was-there.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/what-privacy-was-there.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/if-the-war-patrols-were-45-to-60-days-how-much-time-off-did-the-crew-get-between-them.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/where-would-sailors-be-assigned-when-it-was-time-for-them-to-get-a-longer-break.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/how-are-things-different-before-a-sailor-is-qualified.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/what-did-they-do-for-entertainment-once-they-completed-qualifications.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/what-does-it-feel-like-to-be-submerged.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/does-the-hull-creak-when-you-go-deep.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/do-you-feel-the-motion-when-you-are-submerged.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/why-was-there-red-lighting-in-some-spaces.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/how-much-of-the-boat-was-rigged-for-red.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/did-the-red-lights-cause-any-difficulties.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/how-can-i-avoid-an-issue-like-this-at-home.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/what-messages-did-the-crew-get-from-home.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/how-do-you-get-exercise-when-on-a-submarine.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/where-are-the-offices.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/did-the-captain-get-the-fancy-room-with-only-one-bunk.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/did-captains-always-get-credit-for-ships-they-sank.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/what-was-janac.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/what-was-liberty.md"
+              - "categories/life-aboard-ww2-us-subs/FAQs/what-was-leave.md"
+      - "Attacks and Battles, Small and Large":
+          - "categories/attacks-and-battles-small-and-large/index.md"
+          - "FAQs":
+
+              - "categories/attacks-and-battles-small-and-large/FAQs/in-what-battles-were-submarines-involved.md"
+              - "categories/attacks-and-battles-small-and-large/FAQs/what-were-some-examples-of-the-worst-attacks.md"
+              - "categories/attacks-and-battles-small-and-large/FAQs/how-did-submarines-find-targets.md"
+              - "categories/attacks-and-battles-small-and-large/FAQs/could-they-go-anywhere-they-wanted-to-find-targets.md"
+              - "categories/attacks-and-battles-small-and-large/FAQs/what-did-they-do-if-they-found-a-possible-target.md"
+              - "categories/attacks-and-battles-small-and-large/FAQs/how-did-they-know-they-were-enemy-ships.md"
+              - "categories/attacks-and-battles-small-and-large/FAQs/did-anyone-ever-make-a-mistake-in-ship-identification.md"
+              - "categories/attacks-and-battles-small-and-large/FAQs/what-is-the-tracking-party.md"
+              - "categories/attacks-and-battles-small-and-large/FAQs/what-is-fire-control.md"
+              - "categories/attacks-and-battles-small-and-large/FAQs/how-many-torpedoes-would-be-fired-at-a-target.md"
+              - "categories/attacks-and-battles-small-and-large/FAQs/how-many-torpedo-hits-would-it-take-to-sink-a-ship.md"
+              - "categories/attacks-and-battles-small-and-large/FAQs/what-usually-happened-after-we-attacked-japanese-ships.md"
+              - "categories/attacks-and-battles-small-and-large/FAQs/how-were-our-submarines-detected.md"
+              - "categories/attacks-and-battles-small-and-large/FAQs/how-did-submarines-escape.md"
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+copyright: "Copyright © 2025 Diesel-Electric Submarines"
