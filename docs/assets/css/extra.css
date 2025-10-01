@@ -34,3 +34,61 @@
   padding: 0 4px;
   border-radius: 12px;
 }
+
+
+.md-nav__title {
+  display: none !important;
+}
+
+/* Add space between "Home" and the first category group */
+.md-nav__list > .md-nav__item:nth-child(2) {
+  margin-top: 1.2rem;   /* adjust spacing as needed */
+}
+
+/* Highlight the category label when:
+   1) the category's own index.md is active, OR
+   2) any child FAQ page is active */
+.md-nav__item > .md-nav__link[aria-current="page"],
+.md-nav__item:has(.md-nav__link[aria-current="page"]) > .md-nav__link {
+  color: var(--md-accent-fg-color);
+  font-weight: 700;
+}
+
+/* Optional: left rail for the whole active category group */
+.md-nav__item > .md-nav__link[aria-current="page"] + nav,
+.md-nav__item:has(.md-nav__link[aria-current="page"]) > nav {
+  border-left: 0.125rem solid var(--md-accent-fg-color);
+  padding-left: 0.5rem;
+  margin-left: 0.25rem;
+}
+
+/* Compatibility for themes that still add .md-nav__link--active */
+.md-nav__item > .md-nav__link.md-nav__link--active,
+.md-nav__item:has(.md-nav__link.md-nav__link--active) > .md-nav__link {
+  color: var(--md-accent-fg-color);
+  font-weight: 700;
+}
+.md-nav__item > .md-nav__link.md-nav__link--active + nav,
+.md-nav__item:has(.md-nav__link.md-nav__link--active) > nav {
+  border-left: 0.125rem solid var(--md-accent-fg-color);
+  padding-left: 0.5rem;
+  margin-left: 0.25rem;
+}
+
+/* Make the parent category/page label visibly active when a child FAQ (or its own index.md) is open */
+.is-active-branch > .md-nav__link {
+  color: var(--md-accent-fg-color);
+  font-weight: 700;
+}
+
+/* Optional: subtle left rail to group the open branch */
+.is-active-branch > nav.md-nav {
+  border-left: 0.125rem solid var(--md-accent-fg-color);
+  padding-left: 0.5rem;
+  margin-left: 0.25rem;
+}
+
+/* Optional: if your label uses a chevron/icon, make it look active */
+.is-active-branch > .md-nav__link .md-nav__icon {
+  opacity: 1;
+}
