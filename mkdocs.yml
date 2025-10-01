@@ -16,6 +16,8 @@ theme:
   favicon: assets/favicon/favicon.png
   features:
     - navigation.footer
+    - content.tabs
+    - content.tabs.link  # optional, allows deep linking to tabs
   palette:
     - scheme: slate
       toggle:
