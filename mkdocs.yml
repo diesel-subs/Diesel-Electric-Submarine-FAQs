@@ -23,6 +23,8 @@ theme:
         name: Light mode
       primary: blue
       accent: deep orange
+extra_css:
+  - assets/css/extra.css
 
 nav:
   - Home: index.md

@@ -1,0 +1,36 @@
+.tooltip {
+  position: relative;
+  cursor: help; /* changes cursor on hover */
+  border-bottom: 1px dotted #555; /* optional underline */
+}
+
+.tooltip::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  left: 50%;
+  bottom: 125%; /* show above the word */
+  transform: translateX(-50%);
+  white-space: nowrap;
+  background: #333;
+  color: #fff;
+  padding: 6px 8px;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s;
+  z-index: 9999;
+}
+
+.tooltip:hover::after {
+  opacity: 1;
+}
+
+/* Yellow marker highlight */
+.highlight-popup {
+  background-color: #ffeb3b; /* bright marker yellow */
+  color: #000;              /* black text for contrast */
+  font-weight: bold;
+  padding: 0 4px;
+  border-radius: 12px;
+}

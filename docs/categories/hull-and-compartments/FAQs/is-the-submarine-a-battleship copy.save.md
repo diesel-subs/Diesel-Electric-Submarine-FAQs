@@ -3,7 +3,7 @@
     That depends on your definition of a battleship.
 
 === "Detailed Answer"
-    That depends on your definition of a battleship.  These submarines were combatant ships and did go into battle.  However, in WW2, there was a specific type of ship called a battleship.  Those ships were large, heavy vessels with many guns.  The biggest of our battleships had nine 16-inch guns and as many as 20 five-inch guns, 48 <span class="tooltip highlight-popup" data-tooltip="Primarily an anti-aircraft cannon">Bofors</span> 40 mm guns in mounts of four, and 52 <span class="tooltip highlight-popup" data-tooltip="Swiss 20 mm autocannon, WWII naval anti-aircraft gun">Oerlikon</span> 20 mm guns each.  The battleships we built were 25 times larger, by displacement (or heavier), than the Pampanito.
+    That depends on your definition of a battleship.  These submarines were combatant ships and did go into battle.  However, in WW2, there was a specific type of ship called a battleship.  Those ships were large, heavy vessels with many guns.  The biggest of our battleships had nine 16-inch guns and as many as 20 five-inch guns, 48 Bofors 40 mm guns in mounts of four, and 52 Oerlikon 20 mm guns each.  The battleships we built were 25 times larger, by displacement (or heavier), than the Pampanito.
 
     In WW2, submarines were certainly in battles, but were not referred to as battleships.
 
