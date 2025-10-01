@@ -38,8 +38,8 @@ validation:
 
 nav:
   - Home: index.md
-  - Hull and Compartments: "categories/hull-and-compartments/index.md"
   - US WW2 Subs in General: "categories/us-ww2-subs-in-general/index.md"
+  - Hull and Compartments: "categories/hull-and-compartments/index.md"
   - Operating US Subs in WW2: "categories/operating-us-subs-in-ww2/index.md"
   - Life Aboard WW2 US Subs: "categories/life-aboard-ww2-us-subs/index.md"
   - Crews Aboard WW2 US Subs: "categories/crews-aboard-ww2-us-subs/index.md"
