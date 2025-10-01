@@ -1,5 +1,3 @@
-# What was the food like on a submarine?
-
 
 === "Short Answer"
     Since it has to be palatable to everyone aboard, it would tend to be basic.
@@ -14,6 +12,8 @@
     There was one overnight baker on a submarine who asked his shipmates to write home for the recipe for his favorite cake.  Get the recipe from his shipmates’ wives, girlfriends or mothers.  Then, on that sailor’s birthday, he would bake that cake for dessert.  This may not seem to be a big deal, but it mattered for morale.  Scaling up the recipe may not have been as simple as it might seem since some ingredients, such as spices, can require different proportions.
 
 === "Related Topics"
-    - [What was the largest number of men on a US WW2 submarine?](./what-was-the-largest-number-of-men-on-a-us-ww2-submarine.md)
-    - [What were the general living conditions on a submarine like this?](./what-were-the-general-living-conditions-on-a-submarine-like-this.md)
-    - [Was the food really better than the rest of the Navy?](./was-the-food-really-better-than-the-rest-of-the-navy.md)
+    - [What kinds of food would it be?](../FAQs/what-kinds-of-food-would-it-be.md)
+    - [Where would it be stored?  Where is the storage space?](../FAQs/where-would-it-be-stored-where-is-the-storage-space.md)
+    - [There are showers on board.  How often could the crew take showers?](../FAQs/there-are-showers-on-board-how-often-could-the-crew-take-showers.md)
+    - [Was the food really better than the rest of the Navy?](../FAQs/was-the-food-really-better-than-the-rest-of-the-navy.md)
+    - [Weren’t the boats crowded?](../FAQs/werent-the-boats-crowded.md)

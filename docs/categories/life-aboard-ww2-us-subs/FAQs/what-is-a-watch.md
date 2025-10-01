@@ -1,5 +1,3 @@
-# What is a “watch”?
-
 
 === "Short Answer"
     A watch is a normal shift for the routine operation the submarine.
@@ -8,7 +6,6 @@
     A watch is a normal shift for the routine operation the submarine.  In WW2, that was normally four hours in length with eight hours off before the next watch.  There would normally be three watch sections.
 
     What clock times did the Navy use in WW2.
-
     The Navy used, and still uses, a 24-hour clock.  That is often called military time or European continental time.  Times between fifty-nine minutes past noon and midnight are expressed by adding 12 to the time that we are used to.  Thus, 4 PM is 16:00; 8 PM is 20:00 and 11:59 PM is 23:59.  Midnight is 00:00 and the hour until 01:00 is expressed as 00 plus the minutes.  Noon is still 12:00.
 
     “Zero Dark 30” is still any time in the very early morning when sensible people are still asleep.  This is true no matter where you are.
@@ -20,6 +17,8 @@
     If there were a need to specify a time regardless of where the submarine might be, that would be stated as time zone Zulu.  That is what most civilians might know as Greenwich Mean Time (GMT).  This would be used, for example, as the time for the cessation of hostilities, the end of the war.  That way, everyone everywhere would follow the given order to cease fire at the same time.
 
 === "Related Topics"
-    - [What is “battle stations”?](./what-is-battle-stations.md)
-    - [What is a “battle station”?](./what-is-a-battle-station.md)
-    - [What was JANAC?](./what-was-janac.md)
+    - [What did a typical day at sea consist of?](../FAQs/what-did-a-typical-day-at-sea-consist-of.md)
+    - [Why was there red lighting in some spaces?](../FAQs/why-was-there-red-lighting-in-some-spaces.md)
+    - [Since the crew size grew, but not the number of bunks, where did they all sleep?](../FAQs/since-the-crew-size-grew-but-not-the-number-of-bunks-where-did-they-all-sleep.md)
+    - [Weren’t the boats crowded?](../FAQs/werent-the-boats-crowded.md)
+    - [How does dogging the watch work?](../FAQs/how-does-dogging-the-watch-work.md)

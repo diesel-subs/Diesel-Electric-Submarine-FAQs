@@ -1,5 +1,3 @@
-# What did they do for entertainment once they completed qualifications?
-
 
 === "Short Answer"
     The most common thing would be playing cards chess, or checkers.
@@ -14,6 +12,8 @@
     In addition, there would be the normal jumping to conclusions and the good-natured harassment of each other.
 
 === "Related Topics"
-    - [Did captains always get credit for ships they sank?](./did-captains-always-get-credit-for-ships-they-sank.md)
-    - [Where did they store all the oxygen for so many people?](./where-did-they-store-all-the-oxygen-for-so-many-people.md)
-    - [What did a typical day at sea consist of?](./what-did-a-typical-day-at-sea-consist-of.md)
+    - [Did the red lights cause any difficulties?](../FAQs/did-the-red-lights-cause-any-difficulties.md)
+    - [Since the crew size grew, but not the number of bunks, where did they all sleep?](../FAQs/since-the-crew-size-grew-but-not-the-number-of-bunks-where-did-they-all-sleep.md)
+    - [How do you get exercise when on a submarine?](../FAQs/how-do-you-get-exercise-when-on-a-submarine.md)
+    - [Did captains always get credit for ships they sank?](../FAQs/did-captains-always-get-credit-for-ships-they-sank.md)
+    - [Was the food really better than the rest of the Navy?](../FAQs/was-the-food-really-better-than-the-rest-of-the-navy.md)

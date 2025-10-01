@@ -1,8 +1,6 @@
-# What messages did the crew get from home?
-
 
 === "Short Answer"
-    Very few, if any.  Unlike today, there was no way to call or text the family back at home.  There were also significant concerns about security.  Finally, there were concerns about servicemen getting...
+    Very few, if any.
 
 === "Detailed Answer"
     Very few, if any.  Unlike today, there was no way to call or text the family back at home.  There were also significant concerns about security.  Finally, there were concerns about servicemen getting bad news when they couldn’t do anything about it.  There was no sense letting someone know about serious problems at home when he couldn’t do anything at all about it.
@@ -14,6 +12,8 @@
     This is still mostly true today.  There are family grams, a limited number of messages that could be sent from home to the crew, particularly for the missile boats.  However, they are screened for security and to make sure they wouldn’t upset a sailor who couldn’t do anything about a problem.
 
 === "Related Topics"
-    - [If the war patrols were 45 to 60 days, how much time off did the crew get between them?](./if-the-war-patrols-were-45-to-60-days-how-much-time-off-did-the-crew-get-between-them.md)
-    - [Did the captain get the fancy room with only one bunk?](./did-the-captain-get-the-fancy-room-with-only-one-bunk.md)
-    - [How do you get fresh air into the boat?  Where does the oxygen come from?](./how-do-you-get-fresh-air-into-the-boat-where-does-the-oxygen-come-from.md)
+    - [If no one could take showers, didn’t the submarine smell bad?](../FAQs/if-no-one-could-take-showers-didnt-the-submarine-smell-bad.md)
+    - [What was the food like on a submarine?](../FAQs/what-was-the-food-like-on-a-submarine.md)
+    - [Weren’t the boats crowded?](../FAQs/werent-the-boats-crowded.md)
+    - [Where did they store all the oxygen for so many people?](../FAQs/where-did-they-store-all-the-oxygen-for-so-many-people.md)
+    - [There are showers on board.  How often could the crew take showers?](../FAQs/there-are-showers-on-board-how-often-could-the-crew-take-showers.md)

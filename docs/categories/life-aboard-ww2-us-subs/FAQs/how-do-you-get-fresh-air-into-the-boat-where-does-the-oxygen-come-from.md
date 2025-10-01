@@ -1,5 +1,3 @@
-# How do you get fresh air into the boat?  Where does the oxygen come from?
-
 
 === "Short Answer"
     The best way to get breathable air in the boat is to run the engines to charge the battery.
@@ -14,6 +12,8 @@
     After that, the main option was to bleed air from the high-pressure air banks into the boat.  This would pressurize the boat somewhat, but would improve the O2 and CO2 percentages.  Even if the air in the boat were doubled, to two atmospheres, decompression would not be an issue.  It would about the same as swimming and diving down to about 25 feet.  To be clear, this air from the air banks isn’t to be confused with fresh air, but it is air that allows the crew to survive.
 
 === "Related Topics"
-    - [How deep do you have to go to get below the effect of waves?](./how-deep-do-you-have-to-go-to-get-below-the-effect-of-waves.md)
-    - [How does dogging the watch work?](./how-does-dogging-the-watch-work.md)
-    - [Does the hull creak when you go deep?](./does-the-hull-creak-when-you-go-deep.md)
+    - [Where did they store all the oxygen for so many people?](../FAQs/where-did-they-store-all-the-oxygen-for-so-many-people.md)
+    - [What did a typical day at sea consist of?](../FAQs/what-did-a-typical-day-at-sea-consist-of.md)
+    - [Were these submarines hot inside?](../FAQs/were-these-submarines-hot-inside.md)
+    - [Is there a best place to sleep?](../FAQs/is-there-a-best-place-to-sleep.md)
+    - [How deep do you have to go to get below the effect of waves?](../FAQs/how-deep-do-you-have-to-go-to-get-below-the-effect-of-waves.md)

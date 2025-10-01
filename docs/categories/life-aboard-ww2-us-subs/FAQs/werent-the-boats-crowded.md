@@ -1,5 +1,3 @@
-# Weren’t the boats crowded?
-
 
 === "Short Answer"
     Submariners didn’t usually think so.
@@ -16,6 +14,8 @@
     Even though the crew could become accustomed to the close quarters, that didn’t make it ideal.  Of course, carrying a significant number of extra passengers, such as rescued personnel or special operations troops would make it more crowded.  The crew might have to work a bit harder to make it seem normal.
 
 === "Related Topics"
-    - [Was the food really better than the rest of the Navy?](./was-the-food-really-better-than-the-rest-of-the-navy.md)
-    - [How could the sub sailors put up with the smell?](./how-could-the-sub-sailors-put-up-with-the-smell.md)
-    - [Did the captain get the fancy room with only one bunk?](./did-the-captain-get-the-fancy-room-with-only-one-bunk.md)
+    - [Where did they store all the oxygen for so many people?](../FAQs/where-did-they-store-all-the-oxygen-for-so-many-people.md)
+    - [What was the largest number of men on a US WW2 submarine?](../FAQs/what-was-the-largest-number-of-men-on-a-us-ww2-submarine.md)
+    - [Is that an ice cream machine in the crew’s berthing?](../FAQs/is-that-an-ice-cream-machine-in-the-crews-berthing.md)
+    - [What was the food like on a submarine?](../FAQs/what-was-the-food-like-on-a-submarine.md)
+    - [What does it feel like to be submerged?](../FAQs/what-does-it-feel-like-to-be-submerged.md)

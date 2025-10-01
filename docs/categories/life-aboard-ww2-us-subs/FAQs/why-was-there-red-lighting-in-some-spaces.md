@@ -1,5 +1,3 @@
-# Why was there red lighting in some spaces?
-
 
 === "Short Answer"
     The primary purpose was to protect night vision.
@@ -16,6 +14,8 @@
     It also prevents white lights from giving away our location.  White lights can show a beam for a great distance.  If you remember the first 9/11 memorials in New York City, you know what this means.  The memorials were just lights shining up to the sky from where the towers had stood.  Those beams of light were visible for miles all around.  Submarines don’t want to show something like that.
 
 === "Related Topics"
-    - [What privacy was there?](./what-privacy-was-there.md)
-    - [How much personal storage was there?](./how-much-personal-storage-was-there.md)
-    - [How much of the boat was “rigged for red”?](./how-much-of-the-boat-was-rigged-for-red.md)
+    - [How could the sub sailors put up with the smell?](../FAQs/how-could-the-sub-sailors-put-up-with-the-smell.md)
+    - [What is a “watch”?](../FAQs/what-is-a-watch.md)
+    - [How could you all move quickly when going to battle stations?](../FAQs/how-could-you-all-move-quickly-when-going-to-battle-stations.md)
+    - [Is there a best place to sleep?](../FAQs/is-there-a-best-place-to-sleep.md)
+    - [There are showers on board.  How often could the crew take showers?](../FAQs/there-are-showers-on-board-how-often-could-the-crew-take-showers.md)

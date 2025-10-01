@@ -1,5 +1,3 @@
-# Is there a best place to sleep?
-
 
 === "Short Answer"
     Submarines are relatively noisy at night.
@@ -20,6 +18,8 @@
     The forward battery is likely to be one of the better places to sleep.  There are still engine, fan and wave noises, as well as lights.  But this space doesn’t have the worst of any of the disadvantages.  The key may be to become an officer or a chief petty officer so you can have a bunk in this compartment.
 
 === "Related Topics"
-    - [What privacy was there?](./what-privacy-was-there.md)
-    - [How much personal storage was there?](./how-much-personal-storage-was-there.md)
-    - [Why was there red lighting in some spaces?](./why-was-there-red-lighting-in-some-spaces.md)
+    - [Is it ever truly quiet for sleeping?](../FAQs/is-it-ever-truly-quiet-for-sleeping.md)
+    - [What did a typical day at sea consist of?](../FAQs/what-did-a-typical-day-at-sea-consist-of.md)
+    - [There are showers on board.  How often could the crew take showers?](../FAQs/there-are-showers-on-board-how-often-could-the-crew-take-showers.md)
+    - [Were these submarines hot inside?](../FAQs/were-these-submarines-hot-inside.md)
+    - [How do you get fresh air into the boat?  Where does the oxygen come from?](../FAQs/how-do-you-get-fresh-air-into-the-boat-where-does-the-oxygen-come-from.md)

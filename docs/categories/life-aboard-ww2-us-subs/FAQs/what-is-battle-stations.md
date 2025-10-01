@@ -1,5 +1,3 @@
-# What is “battle stations”?
-
 
 === "Short Answer"
     Battle stations is the condition when the ship is expected to go into battle.
@@ -10,6 +8,8 @@
     On submarines, there could be different assignments for battle stations surfaced, battle stations guns or just battle stations (which assumes attacking while submerged.)
 
 === "Related Topics"
-    - [What is a “battle station”?](./what-is-a-battle-station.md)
-    - [What is a “watch”?](./what-is-a-watch.md)
-    - [How could you all move quickly when going to battle stations?](./how-could-you-all-move-quickly-when-going-to-battle-stations.md)
+    - [What is a “battle station”?](../FAQs/what-is-a-battle-station.md)
+    - [What was “Liberty”?](../FAQs/what-was-liberty.md)
+    - [What was a tracking party?](../FAQs/what-was-a-tracking-party.md)
+    - [What does it feel like to be submerged?](../FAQs/what-does-it-feel-like-to-be-submerged.md)
+    - [Where did they store all the oxygen for so many people?](../FAQs/where-did-they-store-all-the-oxygen-for-so-many-people.md)

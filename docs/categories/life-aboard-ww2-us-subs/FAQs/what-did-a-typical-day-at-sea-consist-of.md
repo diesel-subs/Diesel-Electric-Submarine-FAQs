@@ -1,5 +1,3 @@
-# What did a typical day at sea consist of?
-
 
 === "Short Answer"
     A typical day consisted of two four-hour shifts on watch plus time spent for maintenance, paperwork, studying and training.
@@ -16,6 +14,8 @@
     There were a few instances of captains reversing the day so that the crew would be working at night when the engines were running (and noisy) and pulling fresh and, hopefully, cooler air into the boat.  This would also mean that the boat could be submerged - quieter and calmer - while the crew is sleeping.  This was usually done only when in the tropics.  In these cases, the workday would be from 20:00 to 04:00 (8 PM to 4 AM) and meals would be offset by 12 hours.  For example, breakfast would be around 20:00 rather than at 08:00.  The crew would then sleep during daylight hours from 08:00 to 20:00.
 
 === "Related Topics"
-    - [What did a typical day in port consist of?](./what-did-a-typical-day-in-port-consist-of.md)
-    - [What is a “watch”?](./what-is-a-watch.md)
-    - [What messages did the crew get from home?](./what-messages-did-the-crew-get-from-home.md)
+    - [What did a typical day in port consist of?](../FAQs/what-did-a-typical-day-in-port-consist-of.md)
+    - [How does dogging the watch work?](../FAQs/how-does-dogging-the-watch-work.md)
+    - [What is a “watch”?](../FAQs/what-is-a-watch.md)
+    - [There are showers on board.  How often could the crew take showers?](../FAQs/there-are-showers-on-board-how-often-could-the-crew-take-showers.md)
+    - [Where would sailors be assigned when it was time for them to get a longer break?](../FAQs/where-would-sailors-be-assigned-when-it-was-time-for-them-to-get-a-longer-break.md)

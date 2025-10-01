@@ -1,5 +1,3 @@
-# What does it feel like to be submerged?
-
 
 === "Short Answer"
     As long as you are OK being in small space, it doesn’t feel much different.
@@ -10,6 +8,8 @@
     The hull will compress a little when you go deep.  However, at least on these WW2 boats, it isn’t enough to notice a pressure change.  It may still be enough to mess with the new crew members.  You can tie a string from one side of the hull to the other and pull it tight when on or near the surface.  Then, as you go deeper and the hull compresses, the string will sag all out of proportion to the actual compression.  It looks far more significant than it is.
 
 === "Related Topics"
-    - [What was the food like on a submarine?](./what-was-the-food-like-on-a-submarine.md)
-    - [What is a “watch”?](./what-is-a-watch.md)
-    - [What were the general living conditions on a submarine like this?](./what-were-the-general-living-conditions-on-a-submarine-like-this.md)
+    - [How deep do you have to go to get below the effect of waves?](../FAQs/how-deep-do-you-have-to-go-to-get-below-the-effect-of-waves.md)
+    - [Weren’t the boats crowded?](../FAQs/werent-the-boats-crowded.md)
+    - [What was the food like on a submarine?](../FAQs/what-was-the-food-like-on-a-submarine.md)
+    - [What is a “battle station”?](../FAQs/what-is-a-battle-station.md)
+    - [Does the hull creak when you go deep?](../FAQs/does-the-hull-creak-when-you-go-deep.md)

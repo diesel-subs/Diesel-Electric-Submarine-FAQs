@@ -1,5 +1,3 @@
-# How could the sub sailors put up with the smell?
-
 
 === "Short Answer"
     There is some good news here.
@@ -12,6 +10,8 @@
     Even if you are up on the bridge for a watch, the olfactory nerves don’t normally reset.  You are still mostly “protected” when you come down off the bridge.
 
 === "Related Topics"
-    - [Was the food really better than the rest of the Navy?](./was-the-food-really-better-than-the-rest-of-the-navy.md)
-    - [Did the captain get the fancy room with only one bunk?](./did-the-captain-get-the-fancy-room-with-only-one-bunk.md)
-    - [If no one could take showers, didn’t the submarine smell bad?](./if-no-one-could-take-showers-didnt-the-submarine-smell-bad.md)
+    - [If no one could take showers, didn’t the submarine smell bad?](../FAQs/if-no-one-could-take-showers-didnt-the-submarine-smell-bad.md)
+    - [Why was there red lighting in some spaces?](../FAQs/why-was-there-red-lighting-in-some-spaces.md)
+    - [Weren’t the boats crowded?](../FAQs/werent-the-boats-crowded.md)
+    - [There are showers on board.  How often could the crew take showers?](../FAQs/there-are-showers-on-board-how-often-could-the-crew-take-showers.md)
+    - [Is there a best place to sleep?](../FAQs/is-there-a-best-place-to-sleep.md)

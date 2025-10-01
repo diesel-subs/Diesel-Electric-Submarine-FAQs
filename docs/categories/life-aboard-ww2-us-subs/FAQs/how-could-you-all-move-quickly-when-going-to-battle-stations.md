@@ -1,5 +1,3 @@
-# How could you all move quickly when going to battle stations?
-
 
 === "Short Answer"
     Submarine sailors quickly learn to get past each other in the narrow passageways.
@@ -12,6 +10,8 @@
     In addition, there are very few secrets on a submarine.  There is barely enough room for a private thought, much less a secret.  Word about a possible attack would spread through the crew quickly.  Sailors would then have plenty of opportunity to drift toward their battle stations before the alarm would be sounded.
 
 === "Related Topics"
-    - [How do you get exercise when on a submarine?](./how-do-you-get-exercise-when-on-a-submarine.md)
-    - [What is “battle stations”?](./what-is-battle-stations.md)
-    - [Do you feel the motion when you are submerged?](./do-you-feel-the-motion-when-you-are-submerged.md)
+    - [What was a tracking party?](../FAQs/what-was-a-tracking-party.md)
+    - [What privacy was there?](../FAQs/what-privacy-was-there.md)
+    - [Since the crew size grew, but not the number of bunks, where did they all sleep?](../FAQs/since-the-crew-size-grew-but-not-the-number-of-bunks-where-did-they-all-sleep.md)
+    - [How do you get exercise when on a submarine?](../FAQs/how-do-you-get-exercise-when-on-a-submarine.md)
+    - [Is there a best place to sleep?](../FAQs/is-there-a-best-place-to-sleep.md)

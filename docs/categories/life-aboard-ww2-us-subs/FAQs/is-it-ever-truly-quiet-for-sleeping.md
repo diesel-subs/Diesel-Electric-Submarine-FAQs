@@ -1,5 +1,3 @@
-# Is it ever truly quiet for sleeping?
-
 
 === "Short Answer"
     Finding a truly quiet place to sleep is very unlikely.
@@ -10,6 +8,8 @@
     The key here is to get used to the noise and light quickly.  It also helps to be tired after a long workday.
 
 === "Related Topics"
-    - [Who was responsible for damage control?](./who-was-responsible-for-damage-control.md)
-    - [How much of the boat was “rigged for red”?](./how-much-of-the-boat-was-rigged-for-red.md)
-    - [Did captains always get credit for ships they sank?](./did-captains-always-get-credit-for-ships-they-sank.md)
+    - [Is there a best place to sleep?](../FAQs/is-there-a-best-place-to-sleep.md)
+    - [What kept you from falling out of your bunk in heavy seas?](../FAQs/what-kept-you-from-falling-out-of-your-bunk-in-heavy-seas.md)
+    - [How do you get fresh air into the boat?  Where does the oxygen come from?](../FAQs/how-do-you-get-fresh-air-into-the-boat-where-does-the-oxygen-come-from.md)
+    - [Where would it be stored?  Where is the storage space?](../FAQs/where-would-it-be-stored-where-is-the-storage-space.md)
+    - [What did a typical day at sea consist of?](../FAQs/what-did-a-typical-day-at-sea-consist-of.md)

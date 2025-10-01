@@ -1,5 +1,3 @@
-# What kept you from falling out of your bunk in heavy seas?
-
 
 === "Short Answer"
     This was mostly up to you.
@@ -12,6 +10,8 @@
     In very heavy seas, you may have to strap yourself into your bunk in order to stay put.
 
 === "Related Topics"
-    - [What is a “watch”?](./what-is-a-watch.md)
-    - [What messages did the crew get from home?](./what-messages-did-the-crew-get-from-home.md)
-    - [Do you feel the motion when you are submerged?](./do-you-feel-the-motion-when-you-are-submerged.md)
+    - [How deep do you have to go to get below the effect of waves?](../FAQs/how-deep-do-you-have-to-go-to-get-below-the-effect-of-waves.md)
+    - [Where did they store all the oxygen for so many people?](../FAQs/where-did-they-store-all-the-oxygen-for-so-many-people.md)
+    - [Is it ever truly quiet for sleeping?](../FAQs/is-it-ever-truly-quiet-for-sleeping.md)
+    - [What did a typical day in port consist of?](../FAQs/what-did-a-typical-day-in-port-consist-of.md)
+    - [How much of the boat was “rigged for red”?](../FAQs/how-much-of-the-boat-was-rigged-for-red.md)

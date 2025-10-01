@@ -1,5 +1,3 @@
-# What did a typical day in port consist of?
-
 
 === "Short Answer"
     The typical workday would be from 08:00 to 16:00.
@@ -12,6 +10,8 @@
     This assumes that there are no major problems to be corrected.  If, for example, engines needed to be overhauled, then the enginemen (motor macs in WW2) would work more hours.  Others in the crew might be assigned to assist.  The key thing is to get the boat ready for the next patrol.  It is important to remember that sailors in the Pacific area did not go home at night.  They may not see their families for a year or more at a time.
 
 === "Related Topics"
-    - [What did a typical day at sea consist of?](./what-did-a-typical-day-at-sea-consist-of.md)
-    - [What is a “watch”?](./what-is-a-watch.md)
-    - [What messages did the crew get from home?](./what-messages-did-the-crew-get-from-home.md)
+    - [What was “Liberty”?](../FAQs/what-was-liberty.md)
+    - [What did a typical day at sea consist of?](../FAQs/what-did-a-typical-day-at-sea-consist-of.md)
+    - [Where would sailors be assigned when it was time for them to get a longer break?](../FAQs/where-would-sailors-be-assigned-when-it-was-time-for-them-to-get-a-longer-break.md)
+    - [If the war patrols were 45 to 60 days, how much time off did the crew get between them?](../FAQs/if-the-war-patrols-were-45-to-60-days-how-much-time-off-did-the-crew-get-between-them.md)
+    - [Were these submarines hot inside?](../FAQs/were-these-submarines-hot-inside.md)

@@ -1,8 +1,6 @@
-# Is that an ice cream machine in the crew’s berthing?
-
 
 === "Short Answer"
-    Yes, it is.  Early in the war, there was no capacity to make ice cream on submarines.  The boats may have been able to take small amounts with them on patrol, but there is little freezer space for up...
+    Yes, it is.
 
 === "Detailed Answer"
     Yes, it is.  Early in the war, there was no capacity to make ice cream on submarines.  The boats may have been able to take small amounts with them on patrol, but there is little freezer space for up to 75 days at sea.  Ice cream and oranges were the first things that sailors wanted when they returned from patrol.
@@ -18,6 +16,8 @@
     What flavors were available?  It seemed to be that you could have any flavor you wanted as long as it was white.
 
 === "Related Topics"
-    - [Was the food really better than the rest of the Navy?](./was-the-food-really-better-than-the-rest-of-the-navy.md)
-    - [Since the crew size grew, but not the number of bunks, where did they all sleep?](./since-the-crew-size-grew-but-not-the-number-of-bunks-where-did-they-all-sleep.md)
-    - [If the war patrols were 45 to 60 days, how much time off did the crew get between them?](./if-the-war-patrols-were-45-to-60-days-how-much-time-off-did-the-crew-get-between-them.md)
+    - [Was the food really better than the rest of the Navy?](../FAQs/was-the-food-really-better-than-the-rest-of-the-navy.md)
+    - [Weren’t the boats crowded?](../FAQs/werent-the-boats-crowded.md)
+    - [Since the crew size grew, but not the number of bunks, where did they all sleep?](../FAQs/since-the-crew-size-grew-but-not-the-number-of-bunks-where-did-they-all-sleep.md)
+    - [What was the food like on a submarine?](../FAQs/what-was-the-food-like-on-a-submarine.md)
+    - [What was the largest number of men on a US WW2 submarine?](../FAQs/what-was-the-largest-number-of-men-on-a-us-ww2-submarine.md)

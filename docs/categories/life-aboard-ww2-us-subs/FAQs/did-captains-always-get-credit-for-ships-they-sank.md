@@ -1,5 +1,3 @@
-# Did captains always get credit for ships they sank?
-
 
 === "Short Answer"
     They didn’t always think so.
@@ -12,6 +10,8 @@
     The final review, after the war, was by the Joint Army–Navy Assessment Committee (JANAC) which audited Japanese naval losses in WW2.  This almost always resulted in captains losing credit for some ships sunk.  Japanese records may not have been complete, particularly with regard to smaller vessels, those under 500 tons.  Many submarine captains believed that they did not get full credit for the ships they sank.
 
 === "Related Topics"
-    - [What did they do for entertainment once they completed qualifications?](./what-did-they-do-for-entertainment-once-they-completed-qualifications.md)
-    - [Where did they store all the oxygen for so many people?](./where-did-they-store-all-the-oxygen-for-so-many-people.md)
-    - [What messages did the crew get from home?](./what-messages-did-the-crew-get-from-home.md)
+    - [What was JANAC?](../FAQs/what-was-janac.md)
+    - [Were these submarines hot inside?](../FAQs/were-these-submarines-hot-inside.md)
+    - [Was the food really better than the rest of the Navy?](../FAQs/was-the-food-really-better-than-the-rest-of-the-navy.md)
+    - [What did they do for entertainment once they completed qualifications?](../FAQs/what-did-they-do-for-entertainment-once-they-completed-qualifications.md)
+    - [Weren’t the boats crowded?](../FAQs/werent-the-boats-crowded.md)

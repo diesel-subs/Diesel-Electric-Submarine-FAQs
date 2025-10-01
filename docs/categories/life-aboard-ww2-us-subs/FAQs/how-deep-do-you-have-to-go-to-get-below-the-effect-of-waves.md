@@ -1,5 +1,3 @@
-# How deep do you have to go to get below the effect of waves?
-
 
 === "Short Answer"
     Naturally, this depends on the size of the waves.
@@ -10,6 +8,8 @@
     Modern submarines need to be at 200 feet frequently to pick up any messages addressed to them.  They have reported being bounced around quite a bit at 200 feet when they were in typhoons.  Remember that waves in typhoons can be as high as 50 to 90 feet.
 
 === "Related Topics"
-    - [How do you get fresh air into the boat?  Where does the oxygen come from?](./how-do-you-get-fresh-air-into-the-boat-where-does-the-oxygen-come-from.md)
-    - [How do you get exercise when on a submarine?](./how-do-you-get-exercise-when-on-a-submarine.md)
-    - [Does the hull creak when you go deep?](./does-the-hull-creak-when-you-go-deep.md)
+    - [What kept you from falling out of your bunk in heavy seas?](../FAQs/what-kept-you-from-falling-out-of-your-bunk-in-heavy-seas.md)
+    - [What does it feel like to be submerged?](../FAQs/what-does-it-feel-like-to-be-submerged.md)
+    - [How do you get fresh air into the boat?  Where does the oxygen come from?](../FAQs/how-do-you-get-fresh-air-into-the-boat-where-does-the-oxygen-come-from.md)
+    - [Do you feel the motion when you are submerged?](../FAQs/do-you-feel-the-motion-when-you-are-submerged.md)
+    - [What did a typical day at sea consist of?](../FAQs/what-did-a-typical-day-at-sea-consist-of.md)

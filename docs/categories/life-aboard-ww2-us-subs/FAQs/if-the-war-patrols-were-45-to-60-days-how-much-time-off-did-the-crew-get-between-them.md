@@ -1,5 +1,3 @@
-# If the war patrols were 45 to 60 days, how much time off did the crew get between them?
-
 
 === "Short Answer"
     Generally speaking, the crew was in port for about four weeks after completing a full patrol.
@@ -10,6 +8,8 @@
     It was important to train as a full crew because there would be many new faces on board for the next patrol.  Many of these newcomers were new to submarines and a few would be experienced hands returning to submarine duty.  About 15 to 20% of the crew would be replaced at the end of each patrol.  This was done to give some of the men a break after a series of war patrols.
 
 === "Related Topics"
-    - [What messages did the crew get from home?](./what-messages-did-the-crew-get-from-home.md)
-    - [Did the captain get the fancy room with only one bunk?](./did-the-captain-get-the-fancy-room-with-only-one-bunk.md)
-    - [How could the sub sailors put up with the smell?](./how-could-the-sub-sailors-put-up-with-the-smell.md)
+    - [Where would sailors be assigned when it was time for them to get a longer break?](../FAQs/where-would-sailors-be-assigned-when-it-was-time-for-them-to-get-a-longer-break.md)
+    - [What did a typical day in port consist of?](../FAQs/what-did-a-typical-day-in-port-consist-of.md)
+    - [What did a typical day at sea consist of?](../FAQs/what-did-a-typical-day-at-sea-consist-of.md)
+    - [What was “Liberty”?](../FAQs/what-was-liberty.md)
+    - [How does dogging the watch work?](../FAQs/how-does-dogging-the-watch-work.md)

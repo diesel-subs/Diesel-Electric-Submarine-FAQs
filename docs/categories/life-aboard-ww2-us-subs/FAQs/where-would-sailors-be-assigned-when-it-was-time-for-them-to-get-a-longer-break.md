@@ -1,5 +1,3 @@
-# Where would sailors be assigned when it was time for them to get a longer break?
-
 
 === "Short Answer"
     The crewmen who were being rotated off the boat could be assigned to any number of duties.
@@ -12,6 +10,8 @@
     After about six war patrols, submarines were given an overhaul.  Overhauls were extended maintenance periods for larger repairs and the installation training for new equipment.  The hull might be cleaned for better speed.  It could also be repainted.  This would often be back on the West Coast so the added transit time is also part of the longer break between patrols.
 
 === "Related Topics"
-    - [Where would it be stored?  Where is the storage space?](./where-would-it-be-stored-where-is-the-storage-space.md)
-    - [Who was responsible for damage control?](./who-was-responsible-for-damage-control.md)
-    - [How do you get exercise when on a submarine?](./how-do-you-get-exercise-when-on-a-submarine.md)
+    - [If the war patrols were 45 to 60 days, how much time off did the crew get between them?](../FAQs/if-the-war-patrols-were-45-to-60-days-how-much-time-off-did-the-crew-get-between-them.md)
+    - [What did a typical day in port consist of?](../FAQs/what-did-a-typical-day-in-port-consist-of.md)
+    - [What did a typical day at sea consist of?](../FAQs/what-did-a-typical-day-at-sea-consist-of.md)
+    - [Was the food really better than the rest of the Navy?](../FAQs/was-the-food-really-better-than-the-rest-of-the-navy.md)
+    - [Since the crew size grew, but not the number of bunks, where did they all sleep?](../FAQs/since-the-crew-size-grew-but-not-the-number-of-bunks-where-did-they-all-sleep.md)

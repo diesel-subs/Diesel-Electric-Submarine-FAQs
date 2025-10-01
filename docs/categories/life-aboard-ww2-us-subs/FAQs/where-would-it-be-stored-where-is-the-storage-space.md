@@ -1,5 +1,3 @@
-# Where would it be stored?  Where is the storage space?
-
 
 === "Short Answer"
     If we are talking about a patrol planned for 60 days or more, the simple answer is: everywhere.
@@ -12,6 +10,8 @@
     Sailors were often taking cans of peaches with them on patrol, as long as the cans fit in their individual storage.
 
 === "Related Topics"
-    - [Where are the offices?](./where-are-the-offices.md)
-    - [How do you get fresh air into the boat?  Where does the oxygen come from?](./how-do-you-get-fresh-air-into-the-boat-where-does-the-oxygen-come-from.md)
-    - [Since the crew size grew, but not the number of bunks, where did they all sleep?](./since-the-crew-size-grew-but-not-the-number-of-bunks-where-did-they-all-sleep.md)
+    - [What was the food like on a submarine?](../FAQs/what-was-the-food-like-on-a-submarine.md)
+    - [Were these submarines hot inside?](../FAQs/were-these-submarines-hot-inside.md)
+    - [What kinds of food would it be?](../FAQs/what-kinds-of-food-would-it-be.md)
+    - [There are showers on board.  How often could the crew take showers?](../FAQs/there-are-showers-on-board-how-often-could-the-crew-take-showers.md)
+    - [What did a typical day in port consist of?](../FAQs/what-did-a-typical-day-in-port-consist-of.md)

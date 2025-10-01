@@ -1,21 +1,19 @@
-# In what battles were submarines involved?
 
 === "Short Answer"
-    Submarines participated around most major WW2 naval battles—often as scouts, lifeguards, and convoy raiders—rather than mixing into the main gun/air clashes.
-=== "Detailed Answer"
-    Submarines generally avoided the center of large surface actions—being in the middle of a battleship and carrier melee
-    was a bit like a dog in a bison stampede. Instead, they contributed on the edges: reporting enemy positions, attacking
-    before or after fleet engagements, interdicting supply and troop convoys, and standing lifeguard duty for downed aircrews.
+    This question usually is asking about the major naval battles of WW2 such as Coral Sea, Midway, The Philippine Sea and Leyte Gulf.
 
-    Examples noted in the record include:
-    • Battle of Savo Island (Solomons): S‑44 sank the Japanese heavy cruiser Kako during the Japanese withdrawal.
-    • Midway: A picket arc of U.S. subs helped locate Japanese forces. Nautilus’ contact with a destroyer helped U.S. carrier aircraft
-      infer the carriers’ location. Later torpedo attempts by Nautilus saw misfires/duds—early signs of Mark 14 reliability issues.
-    • Philippine Sea (“Great Marianas Turkey Shoot”): U.S. subs provided crucial scouting and logistics interdiction and sank two carriers—
-      Albacore sank Taihō (helped by catastrophic Japanese damage-control mistakes) and Cavalla sank Shōkaku after multiple hits.
-    • Leyte Gulf: Darter and Dace ambushed part of the Japanese Center Force, sinking Atago and Maya and crippling Takao; other boats
-      scouted, harassed, and attempted attacks around the sprawling action.
+=== "Detailed Answer"
+    This question usually is asking about the major naval battles of WW2 such as Coral Sea, Midway, The Philippine Sea and Leyte Gulf.  Submarines were involved in most of the major battles of the war, but usually indirectly or at the edges.  It makes sense that submarines did not want to be in the middle of a major gun battle.  That would be too much like being dog in the middle of a bison stampede.  It would be too easy to be run over while no one noticed.
+
+    Submarines did provide important intelligence.  The most important information would be the location, composition and heading (sailing direction) of enemy forces.  They sometimes had the opportunity to attack those forces before or after the big battles and, at times, were very successful.  In other cases, our submarines contributed by destroying supplies, destroying troop ships or providing lifeguard duty for our aviators.  They did contribute even without being in the middle of the battle.
+
+    The history of submarines participating around the great naval battles of WW2 will be described further below.
+
+    However, submarines were in many smaller battles.  Nearly every time a submarine attacked Japanese ships, they found themselves in a battle.  The Japanese did not take kindly to having their ships attacked and they fought back.  The intensity and duration of the battles varied.  Sometimes the Japanese had trouble finding our submarines and they would just drop depth charges to try to deter another attack.  Sometimes there was a limited number of escorts and it was more important to guard the remaining ships than to find and sink the submarine.  At other times the attacks were ferocious and prolonged.
+
 === "Related Topics"
-    - [What were some examples of the worst attacks?](../FAQs/what-were-some-examples-of-the-worst-attacks.md)
+    - [What usually happened after we attacked Japanese ships?](../FAQs/what-usually-happened-after-we-attacked-japanese-ships.md)
     - [How did submarines find targets?](../FAQs/how-did-submarines-find-targets.md)
+    - [The first indication would be a lack of information about any friendly ships in the area.  In WW2, submarines were operating deep into enemy areas and could start with the assumption that any ship was likely to be hostile.  If there were friendly ships in the area, did the potential targets match any of that information?](../FAQs/the-first-indication-would-be-a-lack-of-information-about-any-friendly-ships-in-the-area-in-ww2-submarines-were-operatin.md)
     - [How were our submarines detected?](../FAQs/how-were-our-submarines-detected.md)
+    - [Torpedo?](../FAQs/torpedo.md)

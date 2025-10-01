@@ -1,5 +1,3 @@
-# How much food could these boats carry?
-
 
 === "Short Answer"
     The boats were designed for patrols of about 75 days.
@@ -8,6 +6,8 @@
     The boats were designed for patrols of about 75 days.  Therefore, you would carry at least as much food as the planned patrol would last.
 
 === "Related Topics"
-    - [How much personal storage was there?](./how-much-personal-storage-was-there.md)
-    - [How could everyone fit in that small space?](./how-could-everyone-fit-in-that-small-space.md)
-    - [How much of the boat was “rigged for red”?](./how-much-of-the-boat-was-rigged-for-red.md)
+    - [Where would it be stored?  Where is the storage space?](../FAQs/where-would-it-be-stored-where-is-the-storage-space.md)
+    - [What was “Leave”?](../FAQs/what-was-leave.md)
+    - [What were the general living conditions on a submarine like this?](../FAQs/what-were-the-general-living-conditions-on-a-submarine-like-this.md)
+    - [What kinds of food would it be?](../FAQs/what-kinds-of-food-would-it-be.md)
+    - [Where did they store all the oxygen for so many people?](../FAQs/where-did-they-store-all-the-oxygen-for-so-many-people.md)

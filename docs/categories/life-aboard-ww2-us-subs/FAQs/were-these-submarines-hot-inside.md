@@ -1,5 +1,3 @@
-# Were these submarines hot inside?
-
 
 === "Short Answer"
     Most of them were, but that depended on where they were.
@@ -16,6 +14,8 @@
     If the boats were operating off Alaska, they might actually be rather cold.  The Japanese occupied the last two islands in the Aleutian chain at the time of the Battle of Midway.  After that, we often had a submarine in the area monitoring any Japanese activity.  In that area, the air and water temperatures may well be in the low 30s.  If so, the boat would be cool or cold.  The crew might be wishing for some of that excess tropical heat.  It would also be cold in the boats during the winter if they were being tested during sea trials off Manitowoc, WI; Portsmouth, NH; or New London, CT.
 
 === "Related Topics"
-    - [When were the meals?](./when-were-the-meals.md)
-    - [How much food could these boats carry?](./how-much-food-could-these-boats-carry.md)
-    - [What were the general living conditions on a submarine like this?](./what-were-the-general-living-conditions-on-a-submarine-like-this.md)
+    - [There are showers on board.  How often could the crew take showers?](../FAQs/there-are-showers-on-board-how-often-could-the-crew-take-showers.md)
+    - [How do you get fresh air into the boat?  Where does the oxygen come from?](../FAQs/how-do-you-get-fresh-air-into-the-boat-where-does-the-oxygen-come-from.md)
+    - [Is there a best place to sleep?](../FAQs/is-there-a-best-place-to-sleep.md)
+    - [Did captains always get credit for ships they sank?](../FAQs/did-captains-always-get-credit-for-ships-they-sank.md)
+    - [Where would it be stored?  Where is the storage space?](../FAQs/where-would-it-be-stored-where-is-the-storage-space.md)

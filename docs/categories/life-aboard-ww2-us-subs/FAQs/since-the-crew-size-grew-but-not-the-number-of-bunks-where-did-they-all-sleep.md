@@ -1,5 +1,3 @@
-# Since the crew size grew, but not the number of bunks, where did they all sleep?
-
 
 === "Short Answer"
     There are enough bunks.
@@ -12,6 +10,8 @@
     There was the possibility of some good news.  If the captain had an opportunity and fired torpedoes from the after torpedo tubes, bunking could improve.  Reload torpedoes would be moved into the tubes, which were always kept full if possible.  Now, for every torpedo fired, you could make two or three bunks on each empty skid.  For every bunk that is created in this way, three sailors would no longer be hot bunking.
 
 === "Related Topics"
-    - [Where did they store all the oxygen for so many people?](./where-did-they-store-all-the-oxygen-for-so-many-people.md)
-    - [Was the food really better than the rest of the Navy?](./was-the-food-really-better-than-the-rest-of-the-navy.md)
-    - [Where are the offices?](./where-are-the-offices.md)
+    - [What did a typical day at sea consist of?](../FAQs/what-did-a-typical-day-at-sea-consist-of.md)
+    - [How could you all move quickly when going to battle stations?](../FAQs/how-could-you-all-move-quickly-when-going-to-battle-stations.md)
+    - [Where would sailors be assigned when it was time for them to get a longer break?](../FAQs/where-would-sailors-be-assigned-when-it-was-time-for-them-to-get-a-longer-break.md)
+    - [What privacy was there?](../FAQs/what-privacy-was-there.md)
+    - [Is that an ice cream machine in the crew’s berthing?](../FAQs/is-that-an-ice-cream-machine-in-the-crews-berthing.md)

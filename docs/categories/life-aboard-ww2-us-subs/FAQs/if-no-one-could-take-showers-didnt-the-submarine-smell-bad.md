@@ -1,10 +1,6 @@
-# If no one could take showers, didn’t the submarine smell bad?
-
 
 === "Short Answer"
-    Absolutely.  Diesel submarines stank, especially when at sea.
-
-    To clarify, it was true that most of the crew did not take showers.  It would vary from boat to boat, but there just wasn’t enough fresh...
+    Absolutely.
 
 === "Detailed Answer"
     Absolutely.  Diesel submarines stank, especially when at sea.
@@ -18,6 +14,8 @@
     Yes, diesel submarines smelled bad.
 
 === "Related Topics"
-    - [There are showers on board.  How often could the crew take showers?](./there-are-showers-on-board-how-often-could-the-crew-take-showers.md)
-    - [How could the sub sailors put up with the smell?](./how-could-the-sub-sailors-put-up-with-the-smell.md)
-    - [Did the captain get the fancy room with only one bunk?](./did-the-captain-get-the-fancy-room-with-only-one-bunk.md)
+    - [There are showers on board.  How often could the crew take showers?](../FAQs/there-are-showers-on-board-how-often-could-the-crew-take-showers.md)
+    - [How could the sub sailors put up with the smell?](../FAQs/how-could-the-sub-sailors-put-up-with-the-smell.md)
+    - [What messages did the crew get from home?](../FAQs/what-messages-did-the-crew-get-from-home.md)
+    - [Since the crew size grew, but not the number of bunks, where did they all sleep?](../FAQs/since-the-crew-size-grew-but-not-the-number-of-bunks-where-did-they-all-sleep.md)
+    - [Were these submarines hot inside?](../FAQs/were-these-submarines-hot-inside.md)

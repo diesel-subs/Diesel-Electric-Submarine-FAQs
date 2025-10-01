@@ -1,5 +1,3 @@
-# Do you feel the motion when you are submerged?
-
 
 === "Short Answer"
     Yes, but it quickly gets to be at a lesser amount.
@@ -10,6 +8,8 @@
     Shortly after leaving port, the captain will usually do “angles and dangles.”  This is normally announced in advance.  The captain would then order depth changes with larger up and down angles.  This is done to shake loose any equipment and supplies that aren’t stored properly.  This provides an opportunity to store everything properly before it can become a problem.
 
 === "Related Topics"
-    - [Does the hull creak when you go deep?](./does-the-hull-creak-when-you-go-deep.md)
-    - [How do you get exercise when on a submarine?](./how-do-you-get-exercise-when-on-a-submarine.md)
-    - [How deep do you have to go to get below the effect of waves?](./how-deep-do-you-have-to-go-to-get-below-the-effect-of-waves.md)
+    - [How deep do you have to go to get below the effect of waves?](../FAQs/how-deep-do-you-have-to-go-to-get-below-the-effect-of-waves.md)
+    - [Is there a best place to sleep?](../FAQs/is-there-a-best-place-to-sleep.md)
+    - [What kept you from falling out of your bunk in heavy seas?](../FAQs/what-kept-you-from-falling-out-of-your-bunk-in-heavy-seas.md)
+    - [How could the sub sailors put up with the smell?](../FAQs/how-could-the-sub-sailors-put-up-with-the-smell.md)
+    - [Did the captain get the fancy room with only one bunk?](../FAQs/did-the-captain-get-the-fancy-room-with-only-one-bunk.md)

@@ -1,5 +1,3 @@
-# Was the food really better than the rest of the Navy?
-
 
 === "Short Answer"
     Surprisingly, the food on submarines was the best food in the seagoing Navy.
@@ -12,6 +10,8 @@
     As a result of this incentive, the quality of the food on submarines became a fairly big deal.  There are stories of captains fighting over good cooks, perhaps even physically.  And you certainly didn’t want to be a bad cook on a submarine.  You may not last long on the boats.
 
 === "Related Topics"
-    - [What was the food like on a submarine?](./what-was-the-food-like-on-a-submarine.md)
-    - [How could the sub sailors put up with the smell?](./how-could-the-sub-sailors-put-up-with-the-smell.md)
-    - [Did the captain get the fancy room with only one bunk?](./did-the-captain-get-the-fancy-room-with-only-one-bunk.md)
+    - [There are showers on board.  How often could the crew take showers?](../FAQs/there-are-showers-on-board-how-often-could-the-crew-take-showers.md)
+    - [Is that an ice cream machine in the crew’s berthing?](../FAQs/is-that-an-ice-cream-machine-in-the-crews-berthing.md)
+    - [Where would sailors be assigned when it was time for them to get a longer break?](../FAQs/where-would-sailors-be-assigned-when-it-was-time-for-them-to-get-a-longer-break.md)
+    - [What was the food like on a submarine?](../FAQs/what-was-the-food-like-on-a-submarine.md)
+    - [What kinds of food would it be?](../FAQs/what-kinds-of-food-would-it-be.md)
