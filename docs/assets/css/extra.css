@@ -1,3 +1,5 @@
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet">
+
 .tooltip {
   position: relative;
   cursor: help; /* changes cursor on hover */
@@ -97,11 +99,11 @@ figure.mt-4 { margin-top: 2rem; }
 
 /* General feedback box look */
 .md-typeset .admonition.help-feedback {
-  max-width: 400px;
+  max-width: 350px;
   margin: 3em auto;
   border-left: 0.4rem solid var(--feedback-accent);
   border-radius: 8px;
-  padding: 0.8em 1em;
+  padding: 0.4em .em;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
 
@@ -139,4 +141,31 @@ figure.mt-4 { margin-top: 2rem; }
   --feedback-text: #bbdefb;           /* light text */
   --feedback-link: #90caf9;           /* light blue link */
   --feedback-link-hover: #e3f2fd;     /* almost white hover */
+}
+
+/* Target the "Help improve this FAQ" nav entry */
+.md-nav__item a[href="#"] {
+  display: block;
+  padding: 0.6em 0.8em;
+  margin: 0.5em 0;
+  border-left: 0.3em solid #fdfdfd;  /* blue bar like admonition */
+  background: #363638;              /* light background */
+  font-weight: 600;
+  border-radius: 0 4px 4px 0;
+}
+/* Add space before the Help improve block */
+.md-nav__list > .md-nav__item:nth-last-child(2) {
+  margin-bottom: 1.5rem;  /* tweak value */
+}
+
+/* Add icon before the text (same as admonition tip) */
+.md-nav__item a[href="#"]::before {
+  content: "handshake";              /* the ligature text */
+  font-family: "Material Symbols Outlined";  /* or 'Material Symbols Rounded' / 'Material Icons' depending on your load */
+  font-weight: normal;
+  font-style: normal;
+  display: inline-block;
+  font-size: 1.1em;                  /* tweak size to match your nav */
+  margin-right: 0.4em;
+  vertical-align: middle;
 }

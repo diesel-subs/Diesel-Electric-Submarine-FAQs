@@ -1,7 +1,7 @@
 # What were some examples of the worst attacks?
 
-!!! help-feedback "Help improve this FAQ"
-    [Click here to share your thoughts](https://docs.google.com/forms/d/12baHBOjNW3Lb1qyCdIZ1xU_pk7ZppQq6CGINDRCoc_s/)
+!!! help-feedback ""
+    [Click here](https://docs.google.com/forms/d/12baHBOjNW3Lb1qyCdIZ1xU_pk7ZppQq6CGINDRCoc_s/) if you have something to add to this page.  We would love to hear from you.
 
 === "Short Answer"
     Here are four examples of the most effective attacks, plus some information about the strongest attack on the Pampanito on her first war patrol. USS Puffer

@@ -13,6 +13,7 @@ plugins:
 
 theme:
   name: material
+  custom_dir: overrides
   font:
     text: Merriweather Sans
     code: Red Hat Mono
@@ -48,6 +49,7 @@ nav:
   - Life Aboard WW2 US Subs: "categories/life-aboard-ww2-us-subs/index.md"
   - Crews Aboard WW2 US Subs: "categories/crews-aboard-ww2-us-subs/index.md"
   - Attacks and Battles, Small and Large: "categories/attacks-and-battles-small-and-large/index.md"
+  - Join us ...: "#"
 
 markdown_extensions:
   - md_in_html
