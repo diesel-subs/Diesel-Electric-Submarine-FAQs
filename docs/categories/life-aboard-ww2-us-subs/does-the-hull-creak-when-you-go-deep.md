@@ -1,5 +1,5 @@
-# Does the hull creak when you go deep?
-
+!!! help-feedback ""
+    [Click here](https://other.example.com/feedback) if you have something to add to this page. We would love to hear from you.
 
 === "Short Answer"
     It does, a little, on these WW2 boats. However, it isn’t a big deal. Soon you will barely notice it because it has become a normal noise. You might even forget that it made noise.
@@ -8,8 +8,6 @@
     It does, a little, on these WW2 boats.  However, it isn’t a big deal.  Soon you will barely notice it because it has become a normal noise.  You might even forget that it made noise.
 
 === "Related Topics"
-    - [What does it feel like to be submerged?](./what-does-it-feel-like-to-be-submerged.md)
-    - [How could the sub sailors put up with the smell?](./how-could-the-sub-sailors-put-up-with-the-smell.md)
-    - [How are things different before a sailor is qualified?](./how-are-things-different-before-a-sailor-is-qualified.md)
-    - [What privacy was there?](./what-privacy-was-there.md)
-    - [Is it ever truly quiet for sleeping?](./is-it-ever-truly-quiet-for-sleeping.md)
+    - [Do you feel the motion when you are submerged?](./do-you-feel-the-motion-when-you-are-submerged.md)
+    - [How deep do you have to go to get below the effect of waves?](./how-deep-do-you-have-to-go-to-get-below-the-effect-of-waves.md)
+    - [When were the meals?](./when-were-the-meals.md)

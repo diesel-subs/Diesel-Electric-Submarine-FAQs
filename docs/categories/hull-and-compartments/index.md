@@ -1,8 +1,9 @@
 # Hull and Compartments
 
-> A collection of frequently asked questions about **Hull and Compartments**.
+This category collects questions and answers related to **Hull and Compartments**.
 
 ## FAQs
+
 - [Is the USS Pampanito (SS-383) really a submarine?](./is-the-uss-pampanito-ss-383-really-a-submarine.md)
 - [What do you mean when you say this is what we called a submarine?](./what-do-you-mean-when-you-say-this-is-what-we-called-a-submarine.md)
 - [How different are modern submarines?](./how-different-are-modern-submarines.md)
@@ -18,5 +19,4 @@
 - [Why are there so many doorways to go through?](./why-are-there-so-many-doorways-to-go-through.md)
 - [Why are the watertight doors so heavy?](./why-are-the-watertight-doors-so-heavy.md)
 - [What are the compartments on these submarines?](./what-are-the-compartments-on-these-submarines.md)
-- [The control room has a lot of equipment.  Is it the command center?](./the-control-room-has-a-lot-of-equipment-is-it-the-command-center.md)
 - [Why are the chiefs’ quarters known as the goat locker?](./why-are-the-chiefs-quarters-known-as-the-goat-locker.md)

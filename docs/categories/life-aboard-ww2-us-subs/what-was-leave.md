@@ -1,5 +1,5 @@
-# What was “Leave”?
-
+!!! help-feedback ""
+    [Click here](https://other.example.com/feedback) if you have something to add to this page. We would love to hear from you.
 
 === "Short Answer"
     Leave is extended time off, similar to vacations in the civilian world. It was earned at a consistent rate and an individual’s leave balance was tracked. There was a limit during peacetime as to how much leave could be accrued without losing the days over the limit.
@@ -8,8 +8,6 @@
     Leave is extended time off, similar to vacations in the civilian world.  It was earned at a consistent rate and an individual’s leave balance was tracked.  There was a limit during peacetime as to how much leave could be accrued without losing the days over the limit.  Leave not taken would be paid out when the sailor leaves the Navy.
 
 === "Related Topics"
+    - [What was JANAC?](./what-was-janac.md)
     - [What was “Liberty”?](./what-was-liberty.md)
-    - [What is a “watch”?](./what-is-a-watch.md)
-    - [How much personal storage was there?](./how-much-personal-storage-was-there.md)
-    - [What did a typical day at sea consist of?](./what-did-a-typical-day-at-sea-consist-of.md)
-    - [What messages did the crew get from home?](./what-messages-did-the-crew-get-from-home.md)
+    - [What was a tracking party?](./what-was-a-tracking-party.md)

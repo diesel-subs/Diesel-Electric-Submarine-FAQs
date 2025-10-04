@@ -1,5 +1,5 @@
-# Why are the watertight doors so heavy?
-
+!!! help-feedback ""
+    [Click here](https://other.example.com/feedback) if you have something to add to this page. We would love to hear from you.
 
 === "Short Answer"
     See the definition of watertight doors, above.
@@ -8,8 +8,6 @@
     See the definition of watertight doors, above.
 
 === "Related Topics"
-    - [What is a “watertight door”?](./what-is-a-watertight-door.md)
-    - [Where do the torpedoes come out?](./where-do-the-torpedoes-come-out.md)
-    - [What should we know about before discussing what is in the boat?](./what-should-we-know-about-before-discussing-what-is-in-the-boat.md)
+    - [Why are the chiefs’ quarters known as the goat locker?](./why-are-the-chiefs-quarters-known-as-the-goat-locker.md)
     - [Why are there so many doorways to go through?](./why-are-there-so-many-doorways-to-go-through.md)
-    - [Where is the pressure hull?  Can I see it from the pier?](./where-is-the-pressure-hull-can-i-see-it-from-the-pier.md)
+    - [What are the compartments on these submarines?](./what-are-the-compartments-on-these-submarines.md)

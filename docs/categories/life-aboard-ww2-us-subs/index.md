@@ -1,14 +1,14 @@
 # Life Aboard WW2 US Subs
 
-> A collection of frequently asked questions about **Life Aboard WW2 US Subs**.
+This category collects questions and answers related to **Life Aboard WW2 US Subs**.
 
 ## FAQs
+
 - [What did a typical day at sea consist of?](./what-did-a-typical-day-at-sea-consist-of.md)
 - [What did a typical day in port consist of?](./what-did-a-typical-day-in-port-consist-of.md)
 - [What is a “watch”?](./what-is-a-watch.md)
 - [How does dogging the watch work?](./how-does-dogging-the-watch-work.md)
 - [What were the general living conditions on a submarine like this?](./what-were-the-general-living-conditions-on-a-submarine-like-this.md)
-- [Since the crew size grew, but not the number of bunks, where did they all sleep?](./since-the-crew-size-grew-but-not-the-number-of-bunks-where-did-b7b2ec9d.md)
 - [Is there a best place to sleep?](./is-there-a-best-place-to-sleep.md)
 - [Is it ever truly quiet for sleeping?](./is-it-ever-truly-quiet-for-sleeping.md)
 - [What kept you from falling out of your bunk in heavy seas?](./what-kept-you-from-falling-out-of-your-bunk-in-heavy-seas.md)
@@ -22,10 +22,7 @@
 - [Where did they store all the oxygen for so many people?](./where-did-they-store-all-the-oxygen-for-so-many-people.md)
 - [How do you get fresh air into the boat?  Where does the oxygen come from?](./how-do-you-get-fresh-air-into-the-boat-where-does-the-oxygen-come-from.md)
 - [Were these submarines hot inside?](./were-these-submarines-hot-inside.md)
-- [Weren’t the boats crowded?](./werent-the-boats-crowded.md)
-- [There are showers on board.  How often could the crew take showers?](./there-are-showers-on-board-how-often-could-the-crew-take-showers.md)
 - [Why not take salt water showers?](./why-not-take-salt-water-showers.md)
-- [If no one could take showers, didn’t the submarine smell bad?](./if-no-one-could-take-showers-didnt-the-submarine-smell-bad.md)
 - [How could the sub sailors put up with the smell?](./how-could-the-sub-sailors-put-up-with-the-smell.md)
 - [How much food could these boats carry?](./how-much-food-could-these-boats-carry.md)
 - [What kinds of food would it be?](./what-kinds-of-food-would-it-be.md)
@@ -37,8 +34,7 @@
 - [Is that an ice cream machine in the crew’s berthing?](./is-that-an-ice-cream-machine-in-the-crews-berthing.md)
 - [How much personal storage was there?](./how-much-personal-storage-was-there.md)
 - [What privacy was there?](./what-privacy-was-there.md)
-- [If the war patrols were 45 to 60 days, how much time off did the crew get between them?](./if-the-war-patrols-were-45-to-60-days-how-much-time-off-did-the-52d89df1.md)
-- [Where would sailors be assigned when it was time for them to get a longer break?](./where-would-sailors-be-assigned-when-it-was-time-for-them-to-ge-121734af.md)
+- [Where would sailors be assigned when it was time for them to get a longer break?](./where-would-sailors-be-assigned-when-it-was-time-for-them-to-get-a-longer-break.md)
 - [How are things different before a sailor is qualified?](./how-are-things-different-before-a-sailor-is-qualified.md)
 - [What did they do for entertainment once they completed qualifications?](./what-did-they-do-for-entertainment-once-they-completed-qualifications.md)
 - [What does it feel like to be submerged?](./what-does-it-feel-like-to-be-submerged.md)

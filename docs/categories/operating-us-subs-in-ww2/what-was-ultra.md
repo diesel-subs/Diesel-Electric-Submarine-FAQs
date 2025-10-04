@@ -1,5 +1,5 @@
-# What was “Ultra”?
-
+!!! help-feedback ""
+    [Click here](https://other.example.com/feedback) if you have something to add to this page. We would love to hear from you.
 
 === "Short Answer"
     For most of the war, we had broken some of the Japanese naval codes. This often allowed us to know Japanese ship movements and we could deploy our submarines – and other warships – to attack.
@@ -9,7 +9,5 @@
 
 === "Related Topics"
     - [What was the primary mission of our submarines in WW2?](./what-was-the-primary-mission-of-our-submarines-in-ww2.md)
-    - [How did submarines receive messages during a patrol?](./how-did-submarines-receive-messages-during-a-patrol.md)
-    - [How did we find out that submarines had been sunk?](./how-did-we-find-out-that-submarines-had-been-sunk.md)
-    - [What kinds of messages would submarines send during a patrol?](./what-kinds-of-messages-would-submarines-send-during-a-patrol.md)
-    - [Did they do anything other than attacking enemy ships?](./did-they-do-anything-other-than-attacking-enemy-ships.md)
+    - [What is a trim dive?](./what-is-a-trim-dive.md)
+    - [What if you ran out of fuel?](./what-if-you-ran-out-of-fuel.md)

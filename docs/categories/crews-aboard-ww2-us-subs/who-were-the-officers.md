@@ -1,5 +1,5 @@
-# Who were the officers?
-
+!!! help-feedback ""
+    [Click here](https://other.example.com/feedback) if you have something to add to this page. We would love to hear from you.
 
 === "Short Answer"
     Officers were the managers on the submarine. They managed the departments for purposes of maintenance and training. They also led the watch sections, directing the operation of the ship under the guidance of the commanding officer.
@@ -8,8 +8,6 @@
     Officers were the managers on the submarine.  They managed the departments for purposes of maintenance and training.  They also led the watch sections, directing the operation of the ship under the guidance of the commanding officer.
 
 === "Related Topics"
-    - [Were the officers on submarines specialists?](./were-the-officers-on-submarines-specialists.md)
     - [Were officers all the same?](./were-officers-all-the-same.md)
-    - [Is ”captain” a rank or a job?](./is-captain-a-rank-or-a-job.md)
-    - [Was there a difference in WW2?](./was-there-a-difference-in-ww2.md)
-    - [Who are the petty officers who aren’t chiefs?](./who-are-the-petty-officers-who-arent-chiefs.md)
+    - [Were the officers on submarines specialists?](./were-the-officers-on-submarines-specialists.md)
+    - [Who or what are the Chief Petty Officers?](./who-or-what-are-the-chief-petty-officers.md)

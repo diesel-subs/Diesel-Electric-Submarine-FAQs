@@ -1,14 +1,15 @@
 # Operating US Subs in WW2
 
-> A collection of frequently asked questions about **Operating US Subs in WW2**.
+This category collects questions and answers related to **Operating US Subs in WW2**.
 
 ## FAQs
+
 - [What was the primary mission of our submarines in WW2?](./what-was-the-primary-mission-of-our-submarines-in-ww2.md)
 - [Did they do anything other than attacking enemy ships?](./did-they-do-anything-other-than-attacking-enemy-ships.md)
 - [What was “Ultra”?](./what-was-ultra.md)
 - [How did we find out that submarines had been sunk?](./how-did-we-find-out-that-submarines-had-been-sunk.md)
 - [Is it possible to escape from a sunken U. S. submarine?](./is-it-possible-to-escape-from-a-sunken-u-s-submarine.md)
-- [Has anyone escaped from a submarine, of the types we built in WW2, that had sunk?](./has-anyone-escaped-from-a-submarine-of-the-types-we-built-in-ww-c7c7019a.md)
+- [Has anyone escaped from a submarine, of the types we built in WW2, that had sunk?](./has-anyone-escaped-from-a-submarine-of-the-types-we-built-in-ww2-that-had-sunk.md)
 - [How do the escape trunks work?](./how-do-the-escape-trunks-work.md)
 - [How fast could these submarines go on the surface?](./how-fast-could-these-submarines-go-on-the-surface.md)
 - [How fast could these submarines go when submerged?](./how-fast-could-these-submarines-go-when-submerged.md)

@@ -1,5 +1,5 @@
-# How far could these submarines go?
-
+!!! help-feedback ""
+    [Click here](https://other.example.com/feedback) if you have something to add to this page. We would love to hear from you.
 
 === "Short Answer"
     The range of the boats built during and shortly before the war was about 11,000 nautical miles at a speed of 10 knots. They carried over 90,000 gallons of diesel.
@@ -9,7 +9,5 @@
 
 === "Related Topics"
     - [How fast could these submarines go on the surface?](./how-fast-could-these-submarines-go-on-the-surface.md)
-    - [What was the primary mission of our submarines in WW2?](./what-was-the-primary-mission-of-our-submarines-in-ww2.md)
-    - [How long can these submarines stay at sea?](./how-long-can-these-submarines-stay-at-sea.md)
-    - [Were our submarines successful during the war?](./were-our-submarines-successful-during-the-war.md)
-    - [Did they do anything other than attacking enemy ships?](./did-they-do-anything-other-than-attacking-enemy-ships.md)
+    - [How fast could these submarines go when submerged?](./how-fast-could-these-submarines-go-when-submerged.md)
+    - [How long could these submarines stay submerged?](./how-long-could-these-submarines-stay-submerged.md)

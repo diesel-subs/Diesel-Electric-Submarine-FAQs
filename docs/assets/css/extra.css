@@ -99,8 +99,8 @@ figure.mt-4 { margin-top: 2rem; }
 
 /* General feedback box look */
 .md-typeset .admonition.help-feedback {
-  max-width: 350px;
-  margin: 3em auto;
+  max-width: 550px;
+  margin: 1em auto;
   border-left: 0.4rem solid var(--feedback-accent);
   border-radius: 8px;
   padding: 0.4em .em;
@@ -123,6 +123,12 @@ figure.mt-4 { margin-top: 2rem; }
 }
 .md-typeset .admonition.help-feedback a:hover {
   color: var(--feedback-link-hover);
+}
+/* Align help-feedback admonition with the left margin */
+.md-typeset .admonition.help-feedback,
+.md-typeset details.help-feedback {
+  margin-left: 0 !important;
+  padding-left: 0.75rem
 }
 
 /* Light mode colors */
@@ -168,4 +174,10 @@ figure.mt-4 { margin-top: 2rem; }
   font-size: 1.1em;                  /* tweak size to match your nav */
   margin-right: 0.4em;
   vertical-align: middle;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  margin-bottom: 0.5rem;  /* default is usually 1rem or more */
 }

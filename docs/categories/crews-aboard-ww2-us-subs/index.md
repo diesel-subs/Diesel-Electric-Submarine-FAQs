@@ -1,16 +1,15 @@
 # Crews Aboard WW2 US Subs
 
-> A collection of frequently asked questions about **Crews Aboard WW2 US Subs**.
+This category collects questions and answers related to **Crews Aboard WW2 US Subs**.
 
 ## FAQs
+
 - [What is a “bubblehead”?](./what-is-a-bubblehead.md)
 - [How many men were assigned to a submarine in WW2?](./how-many-men-were-assigned-to-a-submarine-in-ww2.md)
-- [Why weren’t the Gato/Balao/Tench boats designed for the number of men assigned?](./why-werent-the-gato-balao-tench-boats-designed-for-the-number-o-d5324577.md)
+- [Why weren’t the Gato/Balao/Tench boats designed for the number of men assigned?](./why-werent-the-gatobalaotench-boats-designed-for-the-number-of-men-assigned.md)
 - [Why did the number increase in the last year?](./why-did-the-number-increase-in-the-last-year.md)
 - [Why does it take so many men to staff the submarine?](./why-does-it-take-so-many-men-to-staff-the-submarine.md)
-- [Since submarines had limited space, were there height and weight limits?](./since-submarines-had-limited-space-were-there-height-and-weight-limits.md)
 - [Does that mean you wanted all smaller sailors on a submarine?](./does-that-mean-you-wanted-all-smaller-sailors-on-a-submarine.md)
-- [With all the negatives, why would anyone want to be on a submarine in WW2?](./with-all-the-negatives-why-would-anyone-want-to-be-on-a-submarine-in-ww2.md)
 - [What was the best part of being on a boat?](./what-was-the-best-part-of-being-on-a-boat.md)
 - [How was a submarine less formal?](./how-was-a-submarine-less-formal.md)
 - [What was the worst part of being on a boat?](./what-was-the-worst-part-of-being-on-a-boat.md)
@@ -24,7 +23,6 @@
 - [What if you just changed your mind and wanted out of submarines?](./what-if-you-just-changed-your-mind-and-wanted-out-of-submarines.md)
 - [Was there a doctor on board these submarines?](./was-there-a-doctor-on-board-these-submarines.md)
 - [What did the pharmacist mates treat?](./what-did-the-pharmacist-mates-treat.md)
-- [As a result, does that mean there were no surgeries on submarines in WW2?](./as-a-result-does-that-mean-there-were-no-surgeries-on-submarines-in-ww2.md)
 - [Were there any women on board submarines in WW2?](./were-there-any-women-on-board-submarines-in-ww2.md)
 - [Was there an area that could be used for a jail?](./was-there-an-area-that-could-be-used-for-a-jail.md)
 - [Who were the officers?](./who-were-the-officers.md)
