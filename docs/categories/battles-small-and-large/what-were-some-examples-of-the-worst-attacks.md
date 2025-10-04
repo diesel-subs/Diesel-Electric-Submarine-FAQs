@@ -3,7 +3,7 @@
 
 === "Short Answer"
     Here are four examples of the most effective attacks, plus some information about the strongest attack on the Pampanito on her first war patrol. USS Puffer
-The USS Puffer, on her first patrol in late 1943, was held down longer than any other boat during the war.
+    The USS Puffer, on her first patrol in late 1943, was held down longer than any other boat during the war.
 
 === "Detailed Answer"
     Here are four examples of the most effective attacks, plus some information about the strongest attack on the Pampanito on her first war patrol.
