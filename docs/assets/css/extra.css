@@ -181,3 +181,54 @@ figure.mt-4 { margin-top: 2rem; }
 .md-typeset h3 {
   margin-bottom: 0.5rem;  /* default is usually 1rem or more */
 }
+
+/* --- 1) Left-align pymdownx.tabbed headings (Material for MkDocs) --- */
+/* Works whether or not alternate_style is on, and beats theme defaults. */
+
+/* Don't let labels stretch to fill the row */
+.md-typeset .tabbed-set > label {
+  flex: 0 0 auto !important;
+}
+
+/* Ensure the label content is left-aligned and spaced */
+.md-typeset .tabbed-set > label {
+  display: inline-flex;              /* consistent box model */
+  align-items: center;
+  justify-content: flex-start !important;
+  text-align: left !important;
+  margin-right: .5rem;               /* adjust spacing between tabs */
+}
+
+/* Make the whole bar start at the left edge */
+.md-typeset .tabbed-set {
+  justify-content: flex-start !important;
+}
+
+/* If your build emits a .tabbed-labels wrapper, left-align that too */
+.md-typeset .tabbed-set .tabbed-labels {
+  justify-content: flex-start !important;
+  text-align: left !important;
+}
+
+/* Keep the content full-width beneath the labels */
+.md-typeset .tabbed-set > .tabbed-content {
+  width: 100%;
+}
+
+/* --- 2) Tweak your help-feedback admonition spacing/indent --- */
+.md-typeset .admonition.help-feedback,
+.md-typeset details.help-feedback {
+  margin-bottom: .5rem;              /* tighter gap before the tabs */
+}
+
+/* Add a small indent to the first paragraph/link inside the admonition */
+.md-typeset .admonition.help-feedback > :not(.admonition-title):first-child {
+  padding-left: .4rem;
+}
+
+/* Optional: make the link stand out slightly without looking loud */
+.md-typeset .admonition.help-feedback a {
+  text-underline-offset: 2px;
+}
+
+#comments { width: 90%; }
