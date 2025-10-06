@@ -1,4 +1,4 @@
-# Welcome to the Diesel-Electric Submarine FAQs
+# wWelcome to the Diesel-Electric Submarine FAQs
 
 The **Diesel-Electric Submarine FAQs** are designed to help visitors, students, and researchers better understand the history, design, and daily life aboard U.S. World War II–era submarines, with special focus on the **USS Pampanito (SS-383)**.  
 
