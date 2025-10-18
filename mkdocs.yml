@@ -12,6 +12,7 @@ extra_css:
 extra_javascript:
   - assets/js/active-branch.js
   - assets/js/feedback-link.js
+  - assets/js/open-summary-tab.js
 
 plugins:
   - search
@@ -31,7 +32,6 @@ theme:
     code: Red Hat Mono
   features:
     - navigation.footer
-    - content.tabs
     - content.tabs.link
     - search.suggest
     - search.highlight
@@ -55,13 +55,7 @@ validation:
 
 nav:
   - Home: index.md
-  - Battles, Small and Large: categories/battles-small-and-large/index.md
-  - Crews Aboard WW2 US Subs: categories/crews-aboard-ww2-us-subs/index.md
-  - Hull and Compartments: categories/hull-and-compartments/index.md
-  - Life Aboard WW2 US Subs: categories/life-aboard-ww2-us-subs/index.md
-  - Operating US Subs in WW2: categories/operating-us-subs-in-ww2/index.md
-  - US WW2 Subs in General: categories/us-ww2-subs-in-general/index.md
-  - Join us ...: "#"
+  - Hull and Compartments: "categories/Hull and Compartments/index.md"
 
 markdown_extensions:
   - md_in_html

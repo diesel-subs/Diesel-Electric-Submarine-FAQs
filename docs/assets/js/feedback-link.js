@@ -1,12 +1,11 @@
 /* feedback-link.js — rewrites the feedback link with page question + category
-   Usage:
-   - In your Markdown admonition, keep a link like:
-       !!! help-feedback ""
-           [Click here](#) if you have something to add...
-     …or add data-feedback-link to any anchor you want rewritten:
-       <a href="#" data-feedback-link>Click here</a>
-*/
+   Usage in Markdown:
+     !!! help-feedback ""
+         [Click here](#) if you have something to add...
 
+   Or anywhere:
+     <a href="#" data-feedback-link>Click here</a>
+*/
 (function () {
   // --- Helper: extract current page's main question title ---
   function getQuestion() {
@@ -32,7 +31,7 @@
       }
     }
 
-    // 2) Fallback: active link in sidebar section
+    // 2) Fallback: active section label in primary nav
     const active = document.querySelector('.md-nav__link--active');
     if (active) {
       const section = active.closest('.md-nav__item');
@@ -56,18 +55,46 @@
     return url.toString();
   }
 
-  // Decide whether a link should be rewritten
+  // --- Decide whether a link should be rewritten ---
   function shouldRewrite(a) {
     if (!a || !a.href) return false;
 
-    // Always rewrite if the author opts-in explicitly
+    // Explicit opt-in
     if (a.hasAttribute('data-feedback-link')) return true;
 
-    // Only auto-rewrite inside our help-feedback admonition
+    // Auto-rewrite only inside our help-feedback admonition
     const inHelpAdmonition = a.closest('.admonition.help-feedback');
     return inHelpAdmonition !== null;
   }
 
-  // You may want to add code here to apply the rewriting logic to the page's links
+  // --- Rewrite matching links on the current page ---
+  function rewriteLinks() {
+    const href = buildUrl();
+    const anchors = Array.from(document.querySelectorAll('a[href]')).filter(shouldRewrite);
 
+    anchors.forEach((a) => {
+      // Idempotent: only change if needed
+      if (a.getAttribute('href') !== href) a.setAttribute('href', href);
+      a.setAttribute('target', '_blank');
+      a.setAttribute('rel', 'noopener');
+    });
+  }
+
+  // --- Initialize on first load and on every SPA navigation in MkDocs Material ---
+  function init() {
+    rewriteLinks();
+  }
+
+  if (window.document$ && typeof window.document$.subscribe === 'function') {
+    window.document$.subscribe(() => {
+      // Runs after each page render in MkDocs Material
+      init();
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
 })();
