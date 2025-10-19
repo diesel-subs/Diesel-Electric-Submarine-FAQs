@@ -1,3 +1,8 @@
+:root {
+  --md-content-max-width: 80ch;
+  /* adjust to taste, e.g. 70ch–100ch */
+}
+
 .tooltip {
   position: relative;
   cursor: help;
@@ -271,4 +276,16 @@ figure.mt-4 {
 
 .md-nav__link {
   margin-bottom: 0;
+}
+
+/* Adds left/right margins to the main content area */
+.md-content {
+  max-width: 900px;
+  /* control total width of content */
+  margin-left: auto;
+  /* center horizontally */
+  margin-right: auto;
+  padding-left: 1.5rem;
+  /* extra inner padding */
+  padding-right: 1rem;
 }

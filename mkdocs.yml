@@ -11,6 +11,7 @@ extra_css:
   - assets/css/extra.css
 extra_javascript:
   - assets/js/active-branch.js
+  - assets/js/first-visit-intro.js
   - assets/js/feedback-link.js
   - assets/js/open-summary-tab.js
 
@@ -54,13 +55,17 @@ validation:
     omitted_files: ignore
 
 nav:
+  - Introduction: intro/index.md
   - Home: index.md
   - Hull and Compartments: "categories/Hull and Compartments/index.md"
 
 markdown_extensions:
-  - md_in_html
   - attr_list
+  - md_in_html
   - admonition
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tabbed:
@@ -72,3 +77,5 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+
+use_directory_urls: false
