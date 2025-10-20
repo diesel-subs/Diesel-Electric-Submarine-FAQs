@@ -1,4 +1,4 @@
-[Open the FAQ Categories :material-arrow-right:](../categories/index.html){ .md-button .md-button--primary }
+[Open the FAQ Categories :material-arrow-right:](../categories/index.md){ .md-button .md-button--primary }
 
 # Welcome to the Diesel-Electric Submarine FAQs
 
