@@ -2,7 +2,9 @@
 
 This short intro appears on your first visit to explain how the site is organized and how to give feedback.
 
-- Explore categories in the left nav.
+- To the left you might see categories you can navigate through.
+!!! info "Nothing on the left?"
+    Click the hamburger symbol :material-menu: in the upper left of this page.
 - Each page has a **Summary**, **Detailed Answer**, and **Related Topics**.
 - See something to improve? Use the “Click here” link in the blue box on each page.
 

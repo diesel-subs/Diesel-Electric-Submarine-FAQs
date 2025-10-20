@@ -289,3 +289,34 @@ figure.mt-4 {
   /* extra inner padding */
   padding-right: 1rem;
 }
+
+.md-typeset .admonition {
+  margin-left: 2rem;
+  /* shifts all admonitions inward */
+  margin-right: 18rem;
+  /* optional: adds right margin */
+}
+
+
+/* Style for custom "help-feedback" admonition */
+/* Style for custom "help-feedback" admonition */
+.md-typeset .admonition.help-feedback {
+  border-left: 4px solid var(--md-primary-fg-color);
+  /* Use your theme's main accent color */
+  background-color: var(--md-default-bg-color--light);
+  /* Lightened background for contrast */
+  margin-left: 2rem;
+  /* Visually indented from the main text */
+  margin-right: 1rem;
+  /* Optional, gives some breathing room on the right */
+  padding: 0.6em 1em;
+  border-radius: 0.4em;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  /* Soft subtle shadow */
+}
+
+/* Optional: adjust the title line (if empty) to look cleaner */
+.md-typeset .admonition.help-feedback>.admonition-title {
+  display: none;
+  /* hides empty title bar */
+}
