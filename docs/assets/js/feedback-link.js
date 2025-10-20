@@ -16,85 +16,34 @@
     return h1 ? h1.textContent.trim() : '';
   }
 
-  // --- Helper: extract category from breadcrumb or sidebar ---
+  // --- Helper: extract category from breadcrumb, sidebar, or URL path ---
   function getCategory() {
-    // 1) Breadcrumb (modern Material builds)
+    // 1) Breadcrumb (MkDocs Material ≥8/9)
     const bc = document.querySelector('[data-md-component="breadcrumb"]');
     if (bc) {
-      const items = bc.querySelectorAll('li, .md-breadcrumb__item');
+      const items = Array.from(bc.querySelectorAll('li'));
       if (items.length >= 2) {
-        const node =
-          items[items.length - 2].querySelector('a, span, .md-ellipsis') ||
-          items[items.length - 2];
-        const txt = node && node.textContent ? node.textContent.trim() : '';
+        const node = items[items.length - 2];
+        const ellipsis = node.querySelector('.md-ellipsis');
+        const txt = (ellipsis ? ellipsis.textContent : node.textContent || '').trim();
         if (txt) return txt;
       }
     }
 
-    // 2) Fallback: active section label in primary nav
-    const active = document.querySelector('.md-nav__link--active');
-    if (active) {
-      const section = active.closest('.md-nav__item');
-      if (section) {
-        const label =
-          section.querySelector(':scope > .md-nav__link .md-ellipsis') ||
-          section.querySelector(':scope > .md-nav__link');
-        if (label && label.textContent) return label.textContent.trim();
-      }
+    // 2) Sidebar: prefer the active *parent* item label
+    const activeLink = document.querySelector('.md-nav__link--active');
+    if (activeLink) {
+      const pageItem = activeLink.closest('.md-nav__item');
+      const parentItem = pageItem && pageItem.parentElement
+        ? pageItem.parentElement.closest('.md-nav__item')
+        : null;
+      const labelNode = parentItem
+        ? (parentItem.querySelector(':scope > .md-nav__link .md-ellipsis') ||
+          parentItem.querySelector(':scope > .md-nav__link'))
+        : null;
+      const labelTxt = labelNode && labelNode.textContent ? labelNode.textContent.trim() : '';
+      if (labelTxt) return labelTxt;
     }
-    return '';
-  }
 
-  // --- Build full URL to feedback form ---
-  function buildUrl() {
-    const question = getQuestion();
-    const category = getCategory();
-    const url = new URL('https://dieselsubs.com/index.php');
-    if (question) url.searchParams.set('question', question);
-    if (category) url.searchParams.set('category', category);
-    return url.toString();
-  }
-
-  // --- Decide whether a link should be rewritten ---
-  function shouldRewrite(a) {
-    if (!a || !a.href) return false;
-
-    // Explicit opt-in
-    if (a.hasAttribute('data-feedback-link')) return true;
-
-    // Auto-rewrite only inside our help-feedback admonition
-    const inHelpAdmonition = a.closest('.admonition.help-feedback');
-    return inHelpAdmonition !== null;
-  }
-
-  // --- Rewrite matching links on the current page ---
-  function rewriteLinks() {
-    const href = buildUrl();
-    const anchors = Array.from(document.querySelectorAll('a[href]')).filter(shouldRewrite);
-
-    anchors.forEach((a) => {
-      // Idempotent: only change if needed
-      if (a.getAttribute('href') !== href) a.setAttribute('href', href);
-      a.setAttribute('target', '_blank');
-      a.setAttribute('rel', 'noopener');
-    });
-  }
-
-  // --- Initialize on first load and on every SPA navigation in MkDocs Material ---
-  function init() {
-    rewriteLinks();
-  }
-
-  if (window.document$ && typeof window.document$.subscribe === 'function') {
-    window.document$.subscribe(() => {
-      // Runs after each page render in MkDocs Material
-      init();
-    });
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', init);
-  } else {
-    init();
-  }
-})();
+    // 3) URL path fallback: /categories/<Category>/...
+    const m = decodeURIComponent(location.pathname

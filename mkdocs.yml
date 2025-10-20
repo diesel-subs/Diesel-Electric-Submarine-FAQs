@@ -1,7 +1,7 @@
 site_name: Diesel-Electric Submarine FAQs
 site_description: An open-source knowledge base on U.S. WWII diesel-electric submarines
 site_author: Dwight Naset and Irving Greisman
-site_url: https://diesel-subs.github.io/diesel-subs/
+# site_url: https://diesel-subs.github.io/diesel-subs/  # Commented out for local dev
 
 repo_name: diesel-subs/diesel-subs
 repo_url: https://github.com/diesel-subs/diesel-subs
@@ -11,7 +11,7 @@ extra_css:
   - assets/css/extra.css
 extra_javascript:
   - assets/js/active-branch.js
-  - assets/js/first-visit-intro.js
+  # - assets/js/first-visit-intro.js?v=2
   - assets/js/feedback-link.js
   - assets/js/open-summary-tab.js
 
@@ -58,6 +58,7 @@ nav:
   - Introduction: intro/index.md
   - Home: index.md
   - Hull and Compartments: "categories/Hull and Compartments/index.md"
+  - US WW2 Subs in General: "categories/US WW2 Subs in General/index.md"
 
 markdown_extensions:
   - attr_list
