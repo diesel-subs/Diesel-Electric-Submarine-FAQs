@@ -2,6 +2,7 @@
 
 ## Questions
 
+- [ba](./Q-ba.md)
 - [a](./Q-a.md)
 - [abcde](./Q-abcde.md)
 - [abc](./Q-abc.md)
